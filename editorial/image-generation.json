@@ -1,0 +1,16 @@
+[
+  {
+    "file": "assets/images/illustration-contemporary.png",
+    "chapter": "22",
+    "mode": "built-in image_gen",
+    "purpose": "当代穿着的层次、衣长与步行状态；不是历史复原",
+    "prompt": "Use case: illustration-story. Asset type: full-page educational book illustration for a Chinese Hanfu companion book, chapter on CONTEMPORARY wearing. Primary request: a refined editorial fashion illustration of TWO adult Chinese people, a man and a woman, walking slowly together in a quiet contemporary urban courtyard. These are contemporary outfits inspired by historical Chinese clothing, not archaeological reconstructions. Woman wears a plain ivory narrow-sleeved straight-front open long outer jacket over a muted moss-green top and a restrained dark red pleated ankle-length wrap skirt, comfortable flat shoes. Man wears a quiet indigo crossed-front long robe with simple narrow fabric waist tie and black cloth shoes. The man's garment left panel overlaps right from WEARER'S perspective. Convey realistic fabric weight, seams, layered necklines and easy natural movement without fantastical floating ribbons. Delicate precise hand-painted fashion-book style, opaque watercolor and fine ink, subtle natural face details, no anime. Tall portrait composition with full feet and generous margins, off-white paper background, muted red/indigo/ivory. Restrained contemporary editorial design, beautiful textile rendering. No lettering, no logos, no palace, no weapon, no crowns, no dramatic fantasy, no grids, no historical authenticity claim. The educational focus is contemporary movement and differing layer lengths."
+  },
+  {
+    "file": "assets/images/illustration-high-skirt.png",
+    "chapter": "06",
+    "mode": "built-in image_gen",
+    "purpose": "以馆方描述为外观线索的高束裙插画，颜色与人物造型为示意选择",
+    "prompt": "Use case: historical-scene. Asset type: single-page educational fashion-book illustration, carefully limited interpretation of a museum object description, NOT evidence or precise reconstruction. Primary request: ONE full-length Tang-dynasty Chinese female figure in a restrained museum-study editorial illustration, FRONT VIEW ONLY, wearing a narrow-sleeved front-opening short jacket and a high-waisted vertically striped long skirt reaching the ground, the skirt waistband rises to chest level and folds outward slightly. Hands loosely held together in front below the chest, so no invented fastening is visible. This is based ONLY on the visible clothing described for the Palace Museum ceramic female figurine collection/sculpture/233402.html: 窄袖对襟短襦衫、竖条纹长裙、裙腰及胸、向外翻折. Keep silhouette slim, restrained small high hair arrangement, no jewelry, no elaborate headdress, no floating scarf. Do not invent hidden back construction or straps. Deep terracotta and faded ivory skirt stripes, muted sage short jacket. Refined matte opaque watercolor with very fine ink contours, off-white paper, warm mineral colors, clear fabric-layer boundaries, natural dignified face, elegant full-body portrait with feet area and generous margin. No text, no grids, no fantasy, no photography, no claim of archaeology reconstruction."
+  }
+]
