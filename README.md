@@ -104,4 +104,18 @@ python scripts/draw_diagrams.py
 git clone history.bundle Hanfu-Atlas-restored
 ```
 
-网站源码如后续需要，预留在`site/`；当前交付为书稿、PDF和EPUB，不包含生成的HTML阅读站。
+网站源码位于 `site/`，与 PDF／EPUB 共用上述分章主稿；生成的 HTML 位于忽略入 Git 的 `build/site/`。
+
+## 在线阅读与 GitHub Pages
+
+阅读站地址：https://yzyexp.github.io/Learn-Hanfu/ （部署成功后可用）。
+
+网站从 `book.json`、原有分章 Markdown 和图片独立构建，包含总目录、前后章导航、本篇目录、图像来源与下载页；不复制另一份正文。只需轻量 Markdown 依赖：
+
+```bash
+python -m pip install -r site/requirements.txt
+python site/build.py
+python -m http.server --directory build/site 8000
+```
+
+构建会校验 31 个页面的全部站内目标、29 幅图片及替代文本。`.github/workflows/pages.yml` 在主分支内容更新后构建并发布，PR 仅构建。首次需要在仓库 Settings → Pages 将 Source 设置为 GitHub Actions。网站 CI 不安装整书导出依赖，不生成 PDF／EPUB；如获准提供公共电子书下载，可将单独构建且已审核的固定产物放入 `downloads/`；无此目录时网站明确显示电子书尚未附加，不生成断链。下载不授予馆藏图新的使用权。
