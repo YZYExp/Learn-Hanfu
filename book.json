@@ -1,0 +1,165 @@
+{
+  "title": "衣冠之间",
+  "subtitle": "汉服的历史、结构与日常",
+  "language": "zh-CN",
+  "version": "2026-10-25",
+  "chapters": [
+    {
+      "id": "01",
+      "title": "看衣冠，也看证据",
+      "source": "chapters/01-reading-evidence.md",
+      "slug": "01-reading-evidence"
+    },
+    {
+      "id": "02",
+      "title": "衣服怎样构成：领、襟、袖、身与裳",
+      "source": "chapters/02-clothing-anatomy.md",
+      "slug": "02-clothing-anatomy"
+    },
+    {
+      "id": "03",
+      "title": "先秦：衣裳、礼制与楚地衣物",
+      "source": "chapters/03-pre-qin.md",
+      "slug": "03-pre-qin"
+    },
+    {
+      "id": "04",
+      "title": "秦汉：袍服、曲裾与丝织衣物",
+      "source": "chapters/04-qin-han.md",
+      "slug": "04-qin-han"
+    },
+    {
+      "id": "05",
+      "title": "魏晋南北朝：宽衣、小袖与跨地域交流",
+      "source": "chapters/05-wei-jin.md",
+      "slug": "05-wei-jin"
+    },
+    {
+      "id": "06",
+      "title": "隋唐五代女服：襦、裙、半臂与帔帛",
+      "source": "chapters/06-sui-tang-women.md",
+      "slug": "06-sui-tang-women"
+    },
+    {
+      "id": "07",
+      "title": "隋唐男子与骑行衣着：圆领袍、幞头和靴",
+      "source": "chapters/07-tang-men.md",
+      "slug": "07-tang-men"
+    },
+    {
+      "id": "08",
+      "title": "两宋：褙子、衫、裙与城市生活",
+      "source": "chapters/08-song.md",
+      "slug": "08-song"
+    },
+    {
+      "id": "09",
+      "title": "辽金元：并存的衣冠与服饰交流",
+      "source": "chapters/09-liao-jin-yuan.md",
+      "slug": "09-liao-jin-yuan"
+    },
+    {
+      "id": "10",
+      "title": "明代女服：衫袄、比甲、披风与裙",
+      "source": "chapters/10-ming-women.md",
+      "slug": "10-ming-women"
+    },
+    {
+      "id": "11",
+      "title": "明代男服：袍衫、道袍、直身与曳撒",
+      "source": "chapters/11-ming-men.md",
+      "slug": "11-ming-men"
+    },
+    {
+      "id": "12",
+      "title": "清代至近代：变革、延续与服饰记忆",
+      "source": "chapters/12-qing-modern.md",
+      "slug": "12-qing-modern"
+    },
+    {
+      "id": "13",
+      "title": "裙的结构：裙片、褶裥、裙门与围合",
+      "source": "chapters/13-skirts.md",
+      "slug": "13-skirts"
+    },
+    {
+      "id": "14",
+      "title": "袍服比较：结构、开衩与内外层",
+      "source": "chapters/14-robes.md",
+      "slug": "14-robes"
+    },
+    {
+      "id": "15",
+      "title": "内衣与裤：衣着系统中不显眼的部分",
+      "source": "chapters/15-underlayers-trousers.md",
+      "slug": "15-underlayers-trousers"
+    },
+    {
+      "id": "16",
+      "title": "冠巾、发式与足衣：从头到脚看整体",
+      "source": "chapters/16-head-foot.md",
+      "slug": "16-head-foot"
+    },
+    {
+      "id": "17",
+      "title": "丝麻棉毛：材料、织物与身体感受",
+      "source": "chapters/17-textiles.md",
+      "slug": "17-textiles"
+    },
+    {
+      "id": "18",
+      "title": "染色、纹样与装饰工艺",
+      "source": "chapters/18-color-pattern.md",
+      "slug": "18-color-pattern"
+    },
+    {
+      "id": "19",
+      "title": "身份、场合与制度：礼服、常服和婚服",
+      "source": "chapters/19-ritual-status.md",
+      "slug": "19-ritual-status"
+    },
+    {
+      "id": "20",
+      "title": "从布到衣：裁剪、缝合与复原",
+      "source": "chapters/20-making.md",
+      "slug": "20-making"
+    },
+    {
+      "id": "21",
+      "title": "走进博物馆：八组实物与图像细读",
+      "source": "chapters/21-museum-cases.md",
+      "slug": "21-museum-cases"
+    },
+    {
+      "id": "22",
+      "title": "当代汉服：重建、商品与日常穿用",
+      "source": "chapters/22-contemporary.md",
+      "slug": "22-contemporary"
+    },
+    {
+      "id": "23",
+      "title": "穿着实践：尺寸、层次、系结与活动",
+      "source": "chapters/23-wearing.md",
+      "slug": "23-wearing"
+    },
+    {
+      "id": "24",
+      "title": "清洁、收纳与长期保存",
+      "source": "chapters/24-care.md",
+      "slug": "24-care"
+    },
+    {
+      "id": "25",
+      "title": "相邻传统与跨文化比较",
+      "source": "chapters/25-comparison.md",
+      "slug": "25-comparison"
+    },
+    {
+      "id": "26",
+      "title": "建立自己的衣冠观察记录",
+      "source": "chapters/26-observation.md",
+      "slug": "26-observation"
+    }
+  ],
+  "appendices": []
+}
