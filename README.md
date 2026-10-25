@@ -15,6 +15,41 @@
 
 完整目录与稳定阅读顺序由 [book.json](book.json) 管理。所有正文在 `chapters/` 与 `appendices/`，图片使用相对路径；后续阅读站可以直接消费同一清单，不必复制正文。
 
+## 分章阅读
+
+<!-- book-toc:start -->
+- [1 · 看衣冠，也看证据](chapters/01-reading-evidence.md)
+- [2 · 衣服怎样构成：领、襟、袖、身与裳](chapters/02-clothing-anatomy.md)
+- [3 · 先秦：衣裳、礼制与楚地衣物](chapters/03-pre-qin.md)
+- [4 · 秦汉：袍服、曲裾与丝织衣物](chapters/04-qin-han.md)
+- [5 · 魏晋南北朝：宽衣、小袖与跨地域交流](chapters/05-wei-jin.md)
+- [6 · 隋唐五代女服：襦、裙、半臂与帔帛](chapters/06-sui-tang-women.md)
+- [7 · 隋唐男子与骑行衣着：圆领袍、幞头和靴](chapters/07-tang-men.md)
+- [8 · 两宋：褙子、衫、裙与城市生活](chapters/08-song.md)
+- [9 · 辽金元：并存的衣冠与服饰交流](chapters/09-liao-jin-yuan.md)
+- [10 · 明代女服：衫袄、比甲、披风与裙](chapters/10-ming-women.md)
+- [11 · 明代男服：袍衫、道袍、直身与曳撒](chapters/11-ming-men.md)
+- [12 · 清代至近代：变革、延续与服饰记忆](chapters/12-qing-modern.md)
+- [13 · 裙的结构：裙片、褶裥、裙门与围合](chapters/13-skirts.md)
+- [14 · 袍服比较：结构、开衩与内外层](chapters/14-robes.md)
+- [15 · 内衣与裤：衣着系统中不显眼的部分](chapters/15-underlayers-trousers.md)
+- [16 · 冠巾、发式与足衣：从头到脚看整体](chapters/16-head-foot.md)
+- [17 · 丝麻棉毛：材料、织物与身体感受](chapters/17-textiles.md)
+- [18 · 染色、纹样与装饰工艺](chapters/18-color-pattern.md)
+- [19 · 身份、场合与制度：礼服、常服和婚服](chapters/19-ritual-status.md)
+- [20 · 从布到衣：裁剪、缝合与复原](chapters/20-making.md)
+- [21 · 走进博物馆：八组实物与图像细读](chapters/21-museum-cases.md)
+- [22 · 当代汉服：重建、商品与日常穿用](chapters/22-contemporary.md)
+- [23 · 穿着实践：尺寸、层次、系结与活动](chapters/23-wearing.md)
+- [24 · 清洁、收纳与长期保存](chapters/24-care.md)
+- [25 · 相邻传统与跨文化比较](chapters/25-comparison.md)
+- [26 · 建立自己的衣冠观察记录](chapters/26-observation.md)
+
+- [附录A · 时间坐标与并行的历史](appendices/a-timeline.md)
+- [附录B · 衣冠观察词汇](appendices/b-glossary.md)
+- [附录C · 图像来源与阅读资料](appendices/c-image-credits.md)
+<!-- book-toc:end -->
+
 ## 文件
 
 - `chapters/`：26章可编辑Markdown主稿。
