@@ -161,5 +161,24 @@
       "slug": "26-observation"
     }
   ],
-  "appendices": []
+  "appendices": [
+    {
+      "id": "A",
+      "title": "时间坐标与并行的历史",
+      "source": "appendices/a-timeline.md",
+      "slug": "a-timeline"
+    },
+    {
+      "id": "B",
+      "title": "衣冠观察词汇",
+      "source": "appendices/b-glossary.md",
+      "slug": "b-glossary"
+    },
+    {
+      "id": "C",
+      "title": "图像来源与阅读资料",
+      "source": "appendices/c-image-credits.md",
+      "slug": "c-image-credits"
+    }
+  ]
 }

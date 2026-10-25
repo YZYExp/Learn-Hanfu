@@ -1,0 +1,86 @@
+[
+  {
+    "path": "assets/images/diagram-01.png",
+    "chapter": "01",
+    "title": "证据能回答什么",
+    "caption": "实物、同期图像和文献分别支持不同判断；互证不等于消除全部未知。",
+    "limitations": "不构成证据等级排序；具体材料可靠性仍需个案评估。"
+  },
+  {
+    "path": "assets/images/diagram-02.png",
+    "chapter": "02",
+    "title": "衣物部位",
+    "caption": "示意衣物的领、襟、袖、衣身与下缘；交叠的方向从穿着者视角判断。",
+    "limitations": "通用部位图，非某时代具体服装；线条不是裁剪纸样或真实缝线。"
+  },
+  {
+    "path": "assets/images/diagram-03.png",
+    "chapter": "03",
+    "title": "时间定位",
+    "caption": "各时期衣冠变化由制度、材料、交流及生活共同塑造；同一时段也存在差异。",
+    "limitations": "按阅读顺序概括，非按时长比例绘制；未穷尽全部政权和地区。"
+  },
+  {
+    "path": "assets/images/diagram-04.png",
+    "chapter": "05",
+    "title": "袖量与空间",
+    "caption": "以通用衣物轮廓比较袖量；大袖增加布料垂落范围，但活动感受还受腋下和衣身结构影响。",
+    "limitations": "不是魏晋服装复原图，不能据此确定时期或制作尺寸。"
+  },
+  {
+    "path": "assets/images/diagram-05.png",
+    "chapter": "08",
+    "title": "外衣的三个观察面",
+    "caption": "用对襟长外衣概念轮廓展示正面开合、侧面开衩与背面拼接的不同观察任务。",
+    "limitations": "不是宋代褙子的精确复原；图中背中线仅作拼接观察位置提示，不宣称所有衣物都有此线。"
+  },
+  {
+    "path": "assets/images/diagram-06.png",
+    "chapter": "13",
+    "title": "两片围合裙概念",
+    "caption": "两片式围裙类结构可通过前后重叠获得遮覆，侧部褶量提供容量；需结合具体裙实物理解。",
+    "limitations": "圆截面为围合关系示意，非马面裙裁剪图；不代表所有历史裙装。"
+  },
+  {
+    "path": "assets/images/diagram-07.png",
+    "chapter": "14",
+    "title": "开衩与内层遮覆",
+    "caption": "放大示意开口边缘与内层遮覆的关系；外部开口不能单独说明完整衣着结构。",
+    "limitations": "几何概念图，非某一种道袍或直身结构，不能据此判断具体衣物的摆与缝合。"
+  },
+  {
+    "path": "assets/images/diagram-08.png",
+    "chapter": "15",
+    "title": "分层观察",
+    "caption": "以三个通用衣物轮廓说明内中外层的长度可不同，实际层数与组合取决于时代、场合和具体衣物。",
+    "limitations": "示意不是任何历史时期的标准三层配置；图中没有断言内衣形制。"
+  },
+  {
+    "path": "assets/images/diagram-09.png",
+    "chapter": "17",
+    "title": "组织与原料",
+    "caption": "平纹、二上一下斜纹与五枚经面缎纹的简化组织图，以蓝色表示经线在上、红色表示纬线在上。",
+    "limitations": "不表示历史织物的密度、线径或光泽；“缎纹”是组织类别，不能据图推断纤维成分。"
+  },
+  {
+    "path": "assets/images/diagram-10.png",
+    "chapter": "18",
+    "title": "织纹与刺绣",
+    "caption": "以放大概念图比较图案进入经纬交织系统、与在底布上另加绣线的区别。",
+    "limitations": "不是具体历史纹样或织绣工艺的完整操作图；复杂织锦和刺绣还存在多种技术。"
+  },
+  {
+    "path": "assets/images/diagram-11.png",
+    "chapter": "20",
+    "title": "复原的工作循环",
+    "caption": "把服饰复原作为有记录、可修订的解释过程，证据与假设须分别保留。",
+    "limitations": "流程是现代研究工作方法概括，并非对某一历史服装纸样的证明。"
+  },
+  {
+    "path": "assets/images/diagram-12.png",
+    "chapter": "26",
+    "title": "衣冠观察记录模板",
+    "caption": "正侧背观察与来源、年代、结构、层次、未知项可合并记录，便于不同对象之间比较。",
+    "limitations": "轮廓仅提供记录位置，不指向特定历史服装；不要用模板补画实际不可见的部位。"
+  }
+]
