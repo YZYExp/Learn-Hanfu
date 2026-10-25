@@ -1,0 +1,839 @@
+[
+  {
+    "chapter": "01",
+    "source": "chapters/01-reading-evidence.md",
+    "prior_images": [
+      "../assets/images/diagram-01.png"
+    ],
+    "gap_and_plan": "照片感不等于证据；复原图与实物配读",
+    "status": "complete",
+    "added_examples": [
+      "model-northern-jiaoxie"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-northern-jiaoxie",
+        "sources": [
+          {
+            "title": "楼淑琦、王淑娟《中国丝绸博物馆：北朝绞缬绢衣的保护修复》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=27772",
+            "supports": "短身、基本对襟且下摆微交、喇叭宽袖、单层、红褐两组系带、斜向白色小圈绞缬点阵。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。白色点圈为近似外观，不是微观织物或染缬工艺复刻；腋下拼缝与褶不能由此照片精确确认。灰裙、白内搭、发式为现代展示补足，不代表已有整套出土搭配。"
+      }
+    ]
+  },
+  {
+    "chapter": "02",
+    "source": "chapters/02-clothing-anatomy.md",
+    "prior_images": [
+      "../assets/images/diagram-02.png"
+    ],
+    "gap_and_plan": "交领/对襟/圆领真人领口与全身比例",
+    "status": "complete",
+    "added_examples": [
+      "model-tang-round-collar",
+      "model-ming-qian-sleeve-layers"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-tang-round-collar",
+        "sources": [
+          {
+            "title": "The Metropolitan Museum of Art, Male attendant, 7th century, 52.190.3",
+            "url": "https://www.metmuseum.org/art/collection/search/54075",
+            "supports": "已查看馆藏史料图：圆领、较窄袖、腰带、膝下袍身和足部的组合。该页确认年代与藏号。"
+          },
+          {
+            "title": "中国国家博物馆《陶男俑》",
+            "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252268.shtml",
+            "supports": "馆方对唐代圆领窄袖袍、幞头与靴组合的解释。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料。 原参照为旧黑白照片，不能确认原色；图中褐色不代表品级。 帽内构造、闭合方式、靴材质与背面未获该图证明。"
+      },
+      {
+        "image": "model-ming-qian-sleeve-layers",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+            "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+          }
+        ],
+        "limits": "AI生成的现代成年模特复原展示，非史料。沿用整身图的同一虚拟试制设计，近景用于看短袖外层和长袖内层，不用于复制具体绮纹、刺绣针法、缝线或染色。色差为增强层次阅读的展示选择。"
+      }
+    ]
+  },
+  {
+    "chapter": "03",
+    "source": "chapters/03-pre-qin.md",
+    "prior_images": [
+      "../assets/images/diagram-03.png"
+    ],
+    "gap_and_plan": "马山楚袍材料分区上身参照，严格限制复原程度",
+    "status": "complete",
+    "added_examples": [
+      "model-chu-robe"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-chu-robe",
+        "sources": [
+          {
+            "title": "湖北省博物馆《湖博馆藏马山战国楚墓锦袍完成加固保护并对外展出》",
+            "url": "https://www.hbww.org.cn/xwdt/p/11338.html",
+            "supports": "马山战国楚墓小菱形纹锦面绵袍；实物图可见长身、长袖与交掩，说明记录正身、里衬、领缘、袖缘及下摆采用不同织物。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。仅把可见轮廓与材料分区转成上身参照，不是礼书标准深衣或原件纸样复刻。图中色泽、细小织纹、隐蔽系结、内搭、发式和鞋均为展示性补足；下摆缘并未精确再现原件纹织。"
+      }
+    ]
+  },
+  {
+    "chapter": "04",
+    "source": "chapters/04-qin-han.md",
+    "prior_images": [
+      "../assets/images/evidence-met-65598.jpg"
+    ],
+    "gap_and_plan": "汉代绵袍；透明单衣叠层，不伪造原穿法",
+    "status": "complete",
+    "added_examples": [
+      "model-han-wadded-robe",
+      "model-gauze-layer-study"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-han-wadded-robe",
+        "sources": [
+          {
+            "title": "香港古物古蹟办事处／湖南博物院《绛紫绢地「长寿绣」丝绵袍》",
+            "url": "https://www.amo.gov.hk/sc/visitor-centre/exhibitions/heritage-discovery-centre/han-exhibition/ag29/index.html",
+            "supports": "马王堆M1出土西汉丝绵袍；图中宽大袖身向袖口收束、交掩衣襟及宽缘分区。官方提供衣长130厘米、通袖长232厘米等尺寸。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。只参照官方原件照片的可见外形；不以生成图确认绕襟路径、完整裁片或实际穿着层数。绣纹、颜色、系结、内搭、发式、鞋为近似补足；非等比例复刻。"
+      },
+      {
+        "image": "model-gauze-layer-study",
+        "sources": [
+          {
+            "title": "于思萌、刘大玮《西汉素纱襌衣》，中国社会科学网",
+            "url": "https://cssn.cn/skgz/bwyc/202609/t20260922_6068425.shtml",
+            "supports": "单层无里、交领右衽、缘边与纱衣身不同；文章明确直裾纱衣穿着场景仍有争论。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。这是现代薄纱覆盖不透内层的观察实验，不是马王堆素纱襌衣精确复原，更不证明古人必把它穿在外层。灰色上衣、裤、鞋、领缘纹理和透光程度均为演示选择。"
+      }
+    ]
+  },
+  {
+    "chapter": "05",
+    "source": "chapters/05-wei-jin.md",
+    "prior_images": [
+      "../assets/images/diagram-04.png"
+    ],
+    "gap_and_plan": "北朝袴褶；绞缬绢衣宽袖上身",
+    "status": "complete",
+    "added_examples": [
+      "model-northern-kuzhe",
+      "model-northern-jiaoxie"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-northern-kuzhe",
+        "sources": [
+          {
+            "title": "中国国家博物馆《上衣下袴》",
+            "url": "https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33119.shtml",
+            "supports": "元邵墓侍从俑的束发小冠、宽袖上衣与宽大裤管组合，及右衽变化。"
+          },
+          {
+            "title": "中国国家博物馆《侍从陶俑》",
+            "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211111_252106.shtml",
+            "supports": "墓主卒于528年；馆方描述上衣下裤、上衣左向右掩。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。从陶俑与说明转译宽袖上衣、大口裤的关系，不是陶俑隐藏结构的精确还原。颜色、布料、腰带具体结法、小冠材料与鞋为展示性补足。"
+      },
+      {
+        "image": "model-northern-jiaoxie",
+        "sources": [
+          {
+            "title": "楼淑琦、王淑娟《中国丝绸博物馆：北朝绞缬绢衣的保护修复》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=27772",
+            "supports": "短身、基本对襟且下摆微交、喇叭宽袖、单层、红褐两组系带、斜向白色小圈绞缬点阵。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。白色点圈为近似外观，不是微观织物或染缬工艺复刻；腋下拼缝与褶不能由此照片精确确认。灰裙、白内搭、发式为现代展示补足，不代表已有整套出土搭配。"
+      }
+    ]
+  },
+  {
+    "chapter": "06",
+    "source": "chapters/06-sui-tang-women.md",
+    "prior_images": [
+      "../assets/images/evidence-met-54077.jpg",
+      "../assets/images/illustration-high-skirt.png"
+    ],
+    "gap_and_plan": "唐代女子短襦高裙；半臂/帔帛层次",
+    "status": "complete",
+    "added_examples": [
+      "model-tang-high-skirt",
+      "model-tang-banbi"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-tang-high-skirt",
+        "sources": [
+          {
+            "title": "故宫博物院《陶彩绘女俑》，新00110572",
+            "url": "https://www.dpm.org.cn/collection/sculpture/233402.html",
+            "supports": "窄袖对襟短襦衫、竖条纹长裙、裙腰及胸且向外翻折。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料，非实拍人物。 发髻与鞋是简化展示；没有复制原俑高冠与垂巾。 色彩、面料、条纹制作方式、裁片与隐蔽固定均不能由原俑确认。"
+      },
+      {
+        "image": "model-tang-banbi",
+        "sources": [
+          {
+            "title": "故宫博物院《陶彩绘持腰鼓女俑》，新00142343",
+            "url": "https://www.dpm.org.cn/collection/sculpture/233415.html",
+            "supports": "馆方确认内窄袖襦衫、外罩半臂、下穿长裙、跽坐。已下载并查看原俑像素，外短袖与内长袖的边界可见。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料。 省去腰鼓，让两层袖口和外衣下缘可见；不把省略道具当作原像复原。 领口精确结构、隐蔽固定、布料、颜色与简化发髻属于试制补足，不能从俑中完整证明。"
+      }
+    ]
+  },
+  {
+    "chapter": "07",
+    "source": "chapters/07-tang-men.md",
+    "prior_images": [
+      "../assets/images/evidence-met-54075.jpg"
+    ],
+    "gap_and_plan": "唐代男子圆领袍；翻领/帽靴",
+    "status": "complete",
+    "added_examples": [
+      "model-tang-round-collar",
+      "model-tang-turn-collar"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-tang-round-collar",
+        "sources": [
+          {
+            "title": "The Metropolitan Museum of Art, Male attendant, 7th century, 52.190.3",
+            "url": "https://www.metmuseum.org/art/collection/search/54075",
+            "supports": "已查看馆藏史料图：圆领、较窄袖、腰带、膝下袍身和足部的组合。该页确认年代与藏号。"
+          },
+          {
+            "title": "中国国家博物馆《陶男俑》",
+            "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252268.shtml",
+            "supports": "馆方对唐代圆领窄袖袍、幞头与靴组合的解释。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料。 原参照为旧黑白照片，不能确认原色；图中褐色不代表品级。 帽内构造、闭合方式、靴材质与背面未获该图证明。"
+      },
+      {
+        "image": "model-tang-turn-collar",
+        "sources": [
+          {
+            "title": "中国国家博物馆《三彩釉陶牵马俑》",
+            "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252267.shtml",
+            "supports": "馆方明确浅黄色翻领窄袖袍、中腰束带；已下载查看其正面图片，蓝色翻领与袍身关系清楚。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料。 此图站立观察翻领，不是骑马姿势或骑具复原；不能据此断定隐藏开衩。 釉色只能辅助辨认色区，不能证明原服染料；帽、靴与隐蔽系结简化。"
+      }
+    ]
+  },
+  {
+    "chapter": "08",
+    "source": "chapters/08-song.md",
+    "prior_images": [
+      "../assets/images/diagram-05.png"
+    ],
+    "gap_and_plan": "宋褙子正面/侧面；开口与扣合",
+    "status": "complete",
+    "added_examples": [
+      "model-song-beizi-front",
+      "model-song-beizi-side"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-song-beizi-front",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《一物Vol.38｜素罗单衣》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354",
+            "supports": "1274年周氏墓实物；衣长120cm、通袖长140cm；直领对襟、窄袖、长侧衩、异色缘边与一粒同料纽扣。"
+          },
+          {
+            "title": "中国丝绸博物馆《素罗背子》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1830",
+            "supports": "同件藏品基本形制及同料纽扣，已查看仓库中的馆藏实物图。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料，不是原件穿着照片或等比例裁剪依据。 胸前覆盖与裙为中性不透内层补足，不宣称是周氏完整穿着组合。 现存褐黄色不等于复原染色；罗孔细观与纽扣编制工艺仍须看实物，不以生成纹理证明。"
+      },
+      {
+        "image": "model-song-beizi-side",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《一物Vol.38｜素罗单衣》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354",
+            "supports": "同一周氏墓单衣，馆方记录两侧约64cm长衩、窄袖、对襟、异色缘边与一粒同料纽扣。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料，不是等比例纸样。 小步移动及内层胸前覆盖、裙、鞋是演示安排；不宣称周氏生前如此成套搭配。 仅解释侧衩使衣片分离的关系，背中缝、全部内层与罗组织微观仍不在证据范围。"
+      }
+    ]
+  },
+  {
+    "chapter": "09",
+    "source": "chapters/09-liao-jin-yuan.md",
+    "prior_images": [
+      "../assets/images/evidence-cma-1995-20.jpg"
+    ],
+    "gap_and_plan": "元辫线袍可见结构，明示多传统并存",
+    "status": "complete",
+    "added_examples": [
+      "model-yuan-bianxian"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-yuan-bianxian",
+        "sources": [
+          {
+            "title": "郑瑶、刘大玮《元代土黄色斜纹绸辫线袍》，中国社会科学网/社科院专刊，2026-10-20",
+            "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261020_6074107.shtml",
+            "supports": "梳妆楼M1实物的交领右衽、窄袖、上下分裁、腰缀辫线与下裳密褶。已查看刊载的整体实物及显微细节图。原物53条腰线与腋侧9纽是文献中的具体数据，不声称生成图逐项复制。"
+          },
+          {
+            "title": "中国丝绸博物馆《辫线袍》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1848",
+            "supports": "只辅助其类型定义：交领右衽、窄袖、宽下摆、紧束腰部与钉缀辫线。该件仅存左肩，不拿它证明完整腰身。"
+          }
+        ],
+        "limits": "AI 生成的类型层面试制展示，非史料，非梳妆楼原物的逐件复制。 仅承诺右衽、窄袖、横向密集腰线与纵向细褶的关系；不以图中可数行数对应原物53条或重建九纽位置。 发型、颜色、内衬及裤为简化补足。没有画日月、金乌或月兔，也不推断质孙制度身份。 真实辫线的材料、编结与手针钉缀应查实物/研究图，不由生成的表面条纹来证明。"
+      }
+    ]
+  },
+  {
+    "chapter": "10",
+    "source": "chapters/10-ming-women.md",
+    "prior_images": [
+      "../assets/images/evidence-met-70324.jpg"
+    ],
+    "gap_and_plan": "明初三件套；女装外层/衫裙",
+    "status": "complete",
+    "added_examples": [
+      "model-ming-qian-three-piece",
+      "model-ming-qian-sleeve-layers"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-ming-qian-three-piece",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+            "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。只示范正面层次。色相、现代发髻、鞋及具体刺绣细节为展示性补足，不复原染前原色或隐藏结构。"
+      },
+      {
+        "image": "model-ming-qian-sleeve-layers",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+            "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+          }
+        ],
+        "limits": "AI生成的现代成年模特复原展示，非史料。沿用整身图的同一虚拟试制设计，近景用于看短袖外层和长袖内层，不用于复制具体绮纹、刺绣针法、缝线或染色。色差为增强层次阅读的展示选择。"
+      }
+    ]
+  },
+  {
+    "chapter": "11",
+    "source": "chapters/11-ming-men.md",
+    "prior_images": [
+      "../assets/images/evidence-met-48939.jpg"
+    ],
+    "gap_and_plan": "明男圆领袍/道袍/贴里；侧摆",
+    "status": "complete",
+    "added_examples": [
+      "model-ming-yuanling-portrait-study",
+      "model-ming-daopao-front",
+      "model-ming-tieli-ramie"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-ming-yuanling-portrait-study",
+        "sources": [
+          {
+            "title": "The Metropolitan Museum of Art, Portrait of a Gentleman, 51.39.4",
+            "url": "https://www.metmuseum.org/art/collection/search/48939",
+            "supports": "16或17世纪画像中的圆领红袍、方形补子、腰带与带翼帽的组合。馆方提醒画像身份可能理想化。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。据画像转译可见位置关系，不是人物复原。补子、带銙细节及织纹为近似；不能据生成的鸟纹判定官阶。内层领、鞋、当代模特及坐具为补足。"
+      },
+      {
+        "image": "model-ming-daopao-front",
+        "sources": [
+          {
+            "title": "董进《图说明代宫廷服饰（六）——皇帝便服》，故宫博物院",
+            "url": "https://www.dpm.org.cn/Uploads/File/2020/04/22/u5e9fff2deb2d4.pdf",
+            "supports": "道袍直领大襟右衽、大袖收口、系带固定；侧开裾由内摆遮蔽。见印刷页116–117。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。这是去除纹样的外观试制模型，不是定陵任一件衣物的完整复制。蓝色、帽、鞋为展示性补足；照片不能证明隐藏暗摆的裁片和缝线。"
+      },
+      {
+        "image": "model-ming-tieli-ramie",
+        "sources": [
+          {
+            "title": "郑瑶、刘大玮《明代本色夏布贴里》，中国社会科学网",
+            "url": "https://www.cssn.cn/skgz/bwyc/202609/t20260915_6067349.shtml",
+            "supports": "江西丰城明墓本色夏布贴里，交领右衽、上衣下裳分裁相接、腰部施褶、夏布材料。"
+          },
+          {
+            "title": "董进《图说明代宫廷服饰（六）——皇帝便服》，故宫博物院",
+            "url": "https://www.dpm.org.cn/Uploads/File/2020/04/22/u5e9fff2deb2d4.pdf",
+            "supports": "贴里上下分裁、前后断腰、下部施褶、无同类中央马面；文章附定陵实物与结构参照，见115–116页。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。这是跨材料互证的结构试制，不是丰城实物裁片复刻。袖幅、褶数、帽鞋与具体尺度未经丰城实物高清图确认；不能用图推定其身份，也不复制帝王纹样。"
+      }
+    ]
+  },
+  {
+    "chapter": "12",
+    "source": "chapters/12-qing-modern.md",
+    "prior_images": [
+      "../assets/images/evidence-cma-1956-78.jpg"
+    ],
+    "gap_and_plan": "清汉族女子袄裙，避免旗装混称",
+    "status": "complete",
+    "added_examples": [
+      "model-qing-han-aoqun"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-qing-han-aoqun",
+        "sources": [
+          {
+            "title": "江西服装学院服装博物馆《清代汉式女装：紫红色提花绸倒大袖女袄》",
+            "url": "https://museum.jift.edu.cn/info/1080/1916.htm",
+            "supports": "清晚期紫红绸袄，大襟右衽、矮立领、宽袖口、弧形下摆，黑色绦边与黑白花边，三组一字盘扣。"
+          },
+          {
+            "title": "江西服装学院服装博物馆《清代汉式女装：暗花紫绸饰流苏五彩绣牡丹纹马面裙》",
+            "url": "https://museum.jift.edu.cn/info/1080/1917.htm",
+            "supports": "清晚期紫色马面裙，前后裙门牡丹绣纹、金色边饰、V形花边与多色流苏。"
+          }
+        ],
+        "limits": "AI生成的现代成年模特复原展示，非史料。两件馆藏分别有出处，但无证据表明原属同一套，图仅作同阶段搭配观察。纹样与色彩为近似转译，鞋、发式、内层为当代展示补足，未复原缠足。"
+      }
+    ]
+  },
+  {
+    "chapter": "13",
+    "source": "chapters/13-skirts.md",
+    "prior_images": [
+      "../assets/images/diagram-06.png",
+      "../assets/images/evidence-met-skirt-30766.jpg"
+    ],
+    "gap_and_plan": "马面裙正侧背，裙门与侧褶",
+    "status": "complete",
+    "added_examples": [
+      "model-mamian-three-views"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-mamian-three-views",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《曲水如意云纹罗裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1905",
+            "supports": "前后裙门两侧对称折裥，裙身正中由两片交叠成大褶，裙腰和裙身缝缀。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。仅为前后中央重叠、侧面布褶关系的简化试制；不复刻曲水如意云纹、实物尺寸或隐藏系扣。现代上衣、鞋和本色方案专用于观察，不是一套明代服饰。"
+      }
+    ]
+  },
+  {
+    "chapter": "14",
+    "source": "chapters/14-robes.md",
+    "prior_images": [
+      "../assets/images/diagram-07.png"
+    ],
+    "gap_and_plan": "用已核实袍服横向对读，非新拼套",
+    "status": "complete",
+    "added_examples": [
+      "model-ming-tieli-ramie",
+      "model-song-beizi-side"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-ming-tieli-ramie",
+        "sources": [
+          {
+            "title": "郑瑶、刘大玮《明代本色夏布贴里》，中国社会科学网",
+            "url": "https://www.cssn.cn/skgz/bwyc/202609/t20260915_6067349.shtml",
+            "supports": "江西丰城明墓本色夏布贴里，交领右衽、上衣下裳分裁相接、腰部施褶、夏布材料。"
+          },
+          {
+            "title": "董进《图说明代宫廷服饰（六）——皇帝便服》，故宫博物院",
+            "url": "https://www.dpm.org.cn/Uploads/File/2020/04/22/u5e9fff2deb2d4.pdf",
+            "supports": "贴里上下分裁、前后断腰、下部施褶、无同类中央马面；文章附定陵实物与结构参照，见115–116页。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。这是跨材料互证的结构试制，不是丰城实物裁片复刻。袖幅、褶数、帽鞋与具体尺度未经丰城实物高清图确认；不能用图推定其身份，也不复制帝王纹样。"
+      },
+      {
+        "image": "model-song-beizi-side",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《一物Vol.38｜素罗单衣》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354",
+            "supports": "同一周氏墓单衣，馆方记录两侧约64cm长衩、窄袖、对襟、异色缘边与一粒同料纽扣。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料，不是等比例纸样。 小步移动及内层胸前覆盖、裙、鞋是演示安排；不宣称周氏生前如此成套搭配。 仅解释侧衩使衣片分离的关系，背中缝、全部内层与罗组织微观仍不在证据范围。"
+      }
+    ]
+  },
+  {
+    "chapter": "15",
+    "source": "chapters/15-underlayers-trousers.md",
+    "prior_images": [
+      "../assets/images/diagram-08.png"
+    ],
+    "gap_and_plan": "当代试穿内层，不伪造古人隐蔽穿法",
+    "status": "complete",
+    "added_examples": [
+      "model-gauze-layer-study"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-gauze-layer-study",
+        "sources": [
+          {
+            "title": "于思萌、刘大玮《西汉素纱襌衣》，中国社会科学网",
+            "url": "https://cssn.cn/skgz/bwyc/202609/t20260922_6068425.shtml",
+            "supports": "单层无里、交领右衽、缘边与纱衣身不同；文章明确直裾纱衣穿着场景仍有争论。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。这是现代薄纱覆盖不透内层的观察实验，不是马王堆素纱襌衣精确复原，更不证明古人必把它穿在外层。灰色上衣、裤、鞋、领缘纹理和透光程度均为演示选择。"
+      }
+    ]
+  },
+  {
+    "chapter": "16",
+    "source": "chapters/16-head-foot.md",
+    "prior_images": [
+      "../assets/images/evidence-met-42180.jpg"
+    ],
+    "gap_and_plan": "帽、领、鞋的同一来源整套核对",
+    "status": "complete",
+    "added_examples": [
+      "model-tang-round-collar"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-tang-round-collar",
+        "sources": [
+          {
+            "title": "The Metropolitan Museum of Art, Male attendant, 7th century, 52.190.3",
+            "url": "https://www.metmuseum.org/art/collection/search/54075",
+            "supports": "已查看馆藏史料图：圆领、较窄袖、腰带、膝下袍身和足部的组合。该页确认年代与藏号。"
+          },
+          {
+            "title": "中国国家博物馆《陶男俑》",
+            "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252268.shtml",
+            "supports": "馆方对唐代圆领窄袖袍、幞头与靴组合的解释。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料。 原参照为旧黑白照片，不能确认原色；图中褐色不代表品级。 帽内构造、闭合方式、靴材质与背面未获该图证明。"
+      }
+    ]
+  },
+  {
+    "chapter": "17",
+    "source": "chapters/17-textiles.md",
+    "prior_images": [
+      "../assets/images/diagram-09.png"
+    ],
+    "gap_and_plan": "同版型不同织物的视觉差异，非性能测量",
+    "status": "complete",
+    "added_examples": [
+      "model-fabric-comparison"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-fabric-comparison",
+        "sources": [
+          {
+            "title": "加拿大文物保护研究所《Caring for textiles and costumes》",
+            "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+            "supports": "织物组织、纤维和加工应分别判断；文中讨论缎组织长浮线与表面光泽，不能单靠光泽识别纤维。"
+          }
+        ],
+        "limits": "AI 生成的现代材质外观对照，非历史复原、非织物检测。两图只演示哑光/反光与褶线的可见差异；不把左图确定为麻、右图确定为丝，不从图推断透气、耐磨或保暖。"
+      }
+    ]
+  },
+  {
+    "chapter": "18",
+    "source": "chapters/18-color-pattern.md",
+    "prior_images": [
+      "../assets/images/diagram-10.png"
+    ],
+    "gap_and_plan": "北朝绞缬衣与图案细部，纹样非精确复刻",
+    "status": "complete",
+    "added_examples": [
+      "model-northern-jiaoxie"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-northern-jiaoxie",
+        "sources": [
+          {
+            "title": "楼淑琦、王淑娟《中国丝绸博物馆：北朝绞缬绢衣的保护修复》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=27772",
+            "supports": "短身、基本对襟且下摆微交、喇叭宽袖、单层、红褐两组系带、斜向白色小圈绞缬点阵。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。白色点圈为近似外观，不是微观织物或染缬工艺复刻；腋下拼缝与褶不能由此照片精确确认。灰裙、白内搭、发式为现代展示补足，不代表已有整套出土搭配。"
+      }
+    ]
+  },
+  {
+    "chapter": "19",
+    "source": "chapters/19-ritual-status.md",
+    "prior_images": [
+      "../assets/images/evidence-cma-1916-1353.jpg"
+    ],
+    "gap_and_plan": "用现有真实婚裙/冠服实物说明，不生成无依据整套礼服",
+    "status": "complete",
+    "added_examples": [
+      "model-ming-yuanling-portrait-study"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-ming-yuanling-portrait-study",
+        "sources": [
+          {
+            "title": "The Metropolitan Museum of Art, Portrait of a Gentleman, 51.39.4",
+            "url": "https://www.metmuseum.org/art/collection/search/48939",
+            "supports": "16或17世纪画像中的圆领红袍、方形补子、腰带与带翼帽的组合。馆方提醒画像身份可能理想化。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。据画像转译可见位置关系，不是人物复原。补子、带銙细节及织纹为近似；不能据生成的鸟纹判定官阶。内层领、鞋、当代模特及坐具为补足。"
+      }
+    ]
+  },
+  {
+    "chapter": "20",
+    "source": "chapters/20-making.md",
+    "prior_images": [
+      "../assets/images/diagram-11.png"
+    ],
+    "gap_and_plan": "试制衣物与平铺参考的对读记录",
+    "status": "complete",
+    "added_examples": [
+      "model-ming-qian-sleeve-layers"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-ming-qian-sleeve-layers",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+            "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+          }
+        ],
+        "limits": "AI生成的现代成年模特复原展示，非史料。沿用整身图的同一虚拟试制设计，近景用于看短袖外层和长袖内层，不用于复制具体绮纹、刺绣针法、缝线或染色。色差为增强层次阅读的展示选择。"
+      }
+    ]
+  },
+  {
+    "chapter": "21",
+    "source": "chapters/21-museum-cases.md",
+    "prior_images": [
+      "../assets/images/evidence-cn-north-jiaoxie.jpg",
+      "../assets/images/evidence-cn-tang-figure.jpg",
+      "../assets/images/evidence-cn-song-beizi.jpg",
+      "../assets/images/evidence-cn-ming-three.jpg",
+      "../assets/images/evidence-cn-ming-skirt.jpg"
+    ],
+    "gap_and_plan": "原件与新增上身参照就近对比",
+    "status": "complete",
+    "added_examples": [
+      "model-northern-jiaoxie",
+      "model-song-beizi-front",
+      "model-ming-qian-three-piece"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-northern-jiaoxie",
+        "sources": [
+          {
+            "title": "楼淑琦、王淑娟《中国丝绸博物馆：北朝绞缬绢衣的保护修复》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=27772",
+            "supports": "短身、基本对襟且下摆微交、喇叭宽袖、单层、红褐两组系带、斜向白色小圈绞缬点阵。"
+          }
+        ],
+        "limits": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。白色点圈为近似外观，不是微观织物或染缬工艺复刻；腋下拼缝与褶不能由此照片精确确认。灰裙、白内搭、发式为现代展示补足，不代表已有整套出土搭配。"
+      },
+      {
+        "image": "model-song-beizi-front",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《一物Vol.38｜素罗单衣》",
+            "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354",
+            "supports": "1274年周氏墓实物；衣长120cm、通袖长140cm；直领对襟、窄袖、长侧衩、异色缘边与一粒同料纽扣。"
+          },
+          {
+            "title": "中国丝绸博物馆《素罗背子》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1830",
+            "supports": "同件藏品基本形制及同料纽扣，已查看仓库中的馆藏实物图。"
+          }
+        ],
+        "limits": "AI 生成的复原展示，非史料，不是原件穿着照片或等比例裁剪依据。 胸前覆盖与裙为中性不透内层补足，不宣称是周氏完整穿着组合。 现存褐黄色不等于复原染色；罗孔细观与纽扣编制工艺仍须看实物，不以生成纹理证明。"
+      },
+      {
+        "image": "model-ming-qian-three-piece",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+            "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。只示范正面层次。色相、现代发髻、鞋及具体刺绣细节为展示性补足，不复原染前原色或隐藏结构。"
+      }
+    ]
+  },
+  {
+    "chapter": "22",
+    "source": "chapters/22-contemporary.md",
+    "prior_images": [
+      "../assets/images/illustration-contemporary.png"
+    ],
+    "gap_and_plan": "明确当代款式的成年男女穿用例",
+    "status": "complete",
+    "added_examples": [
+      "model-contemporary-pair"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-contemporary-pair",
+        "sources": [],
+        "limits": "AI 生成的现代设计样例，非史料，也不对应任何馆藏整套衣着。现代发式、鞋、裤和便利长度是明确的当代选择；不能拿它反推古代制度。"
+      }
+    ]
+  },
+  {
+    "chapter": "23",
+    "source": "chapters/23-wearing.md",
+    "prior_images": [],
+    "gap_and_plan": "当代衣着站立/坐下/行走活动检查",
+    "status": "complete",
+    "added_examples": [
+      "model-modern-movement"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-modern-movement",
+        "sources": [],
+        "limits": "AI 生成的现代穿用教学展示，非历史复原、非真实穿着测试。图示不能证明尺寸、舒适度或活动安全。三视仅提供检查位置，实际衣物仍须本人试穿。"
+      }
+    ]
+  },
+  {
+    "chapter": "24",
+    "source": "chapters/24-care.md",
+    "prior_images": [],
+    "gap_and_plan": "现代成衣支撑收纳案例，非文物护理教程",
+    "status": "complete",
+    "added_examples": [
+      "photo-modern-storage"
+    ],
+    "fact_basis": [
+      {
+        "image": "photo-modern-storage",
+        "sources": [
+          {
+            "title": "加拿大文物保护研究所《Caring for textiles and costumes》：Storage",
+            "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+            "supports": "尽量减少折叠、为折处提供柔软支撑、使用加垫衣架；脆弱、重饰或斜裁衣物更宜平放。"
+          }
+        ],
+        "limits": "AI 生成的现代成衣护理展示，非文物修复操作记录。左为平放/柔软支撑思路，右为加垫衣架思路；盒纸材质、酸碱性、衣物纤维和耐久性无法靠生成图鉴定。具体护理仍服从洗标与材料情况。"
+      }
+    ]
+  },
+  {
+    "chapter": "25",
+    "source": "chapters/25-comparison.md",
+    "prior_images": [],
+    "gap_and_plan": "相邻传统以各馆实物为准，不合成民族典型人体图",
+    "status": "complete",
+    "added_examples": [
+      "model-yuan-bianxian"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-yuan-bianxian",
+        "sources": [
+          {
+            "title": "郑瑶、刘大玮《元代土黄色斜纹绸辫线袍》，中国社会科学网/社科院专刊，2026-10-20",
+            "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261020_6074107.shtml",
+            "supports": "梳妆楼M1实物的交领右衽、窄袖、上下分裁、腰缀辫线与下裳密褶。已查看刊载的整体实物及显微细节图。原物53条腰线与腋侧9纽是文献中的具体数据，不声称生成图逐项复制。"
+          },
+          {
+            "title": "中国丝绸博物馆《辫线袍》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1848",
+            "supports": "只辅助其类型定义：交领右衽、窄袖、宽下摆、紧束腰部与钉缀辫线。该件仅存左肩，不拿它证明完整腰身。"
+          }
+        ],
+        "limits": "AI 生成的类型层面试制展示，非史料，非梳妆楼原物的逐件复制。 仅承诺右衽、窄袖、横向密集腰线与纵向细褶的关系；不以图中可数行数对应原物53条或重建九纽位置。 发型、颜色、内衬及裤为简化补足。没有画日月、金乌或月兔，也不推断质孙制度身份。 真实辫线的材料、编结与手针钉缀应查实物/研究图，不由生成的表面条纹来证明。"
+      }
+    ]
+  },
+  {
+    "chapter": "26",
+    "source": "chapters/26-observation.md",
+    "prior_images": [
+      "../assets/images/diagram-12.png"
+    ],
+    "gap_and_plan": "全身/侧面/细节观察记录照片例",
+    "status": "complete",
+    "added_examples": [
+      "model-mamian-three-views"
+    ],
+    "fact_basis": [
+      {
+        "image": "model-mamian-three-views",
+        "sources": [
+          {
+            "title": "中国丝绸博物馆《曲水如意云纹罗裙》",
+            "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1905",
+            "supports": "前后裙门两侧对称折裥，裙身正中由两片交叠成大褶，裙腰和裙身缝缀。"
+          }
+        ],
+        "limits": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。仅为前后中央重叠、侧面布褶关系的简化试制；不复刻曲水如意云纹、实物尺寸或隐藏系扣。现代上衣、鞋和本色方案专用于观察，不是一套明代服饰。"
+      }
+    ]
+  }
+]

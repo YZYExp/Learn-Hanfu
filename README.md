@@ -4,7 +4,9 @@
 
 《衣着有名》的独立姊妹篇，面向希望系统认识汉服的兴趣读者。全书新编，以先秦至当代的历史为主线，再深入衣物结构、材料工艺、制度场景、实物阅读与现实穿用。
 
-本版97页PDF、26章、3个附录，约5.7万汉字（含图注、附录与资料说明），29幅配图。引用邻近事实，PDF提供同页资料链接；历史图像、服装实物、教学示意和生成插画分别标明性质。文字按内容需要展开，不受配图分格数量限制。
+当前阅读站版本包含26章、3个附录、52幅不同配图。本轮新增23张照片级AI教学图，其中22张含成年模特穿着，1张为收纳护理场景；配合原有15张文物或历史图像、12幅结构图与2幅AI插画。18张新增图采用有具体来源的有限复原／类型试制，5张明确为现代观察实验。它们不是真人实拍，不充当史料，不冒称馆方认证复原。此前离线版的页数与字数不代表此次在线增补版。
+
+[在线阅读](https://yzyexp.github.io/Learn-Hanfu/) · [上身图鉴](https://yzyexp.github.io/Learn-Hanfu/gallery.html)
 
 ## 阅读路线
 
@@ -54,7 +56,7 @@
 
 - `chapters/`：26章可编辑Markdown主稿。
 - `appendices/`：时间坐标、词汇、图像来源。
-- `assets/images/`：15张文物或历史图像照片、12幅原创教学图、2幅AI教学插画。
+- `assets/images/`：15张文物或历史图像照片、12幅原创教学图、2幅AI教学插画、23张新增照片级教学图。
 - `assets/fonts/`：内嵌字体子集及OFL许可。
 - `references/`：来源目录、图像权利、图注与插入记录。
 - `scripts/`：图解、字体准备、PDF与EPUB构建、完整性验证。
@@ -90,7 +92,7 @@ python scripts/draw_diagrams.py
 
 ## 资料与图像
 
-118个不同的来源URL集中于`references/source-catalog.json`，正文与独立章节保留事实附近的链接。原图题名、年代、编号、机构、许可状态、观察范围与下载校验见`references/image-evidence.json`。
+120个不同的来源URL集中于`references/source-catalog.json`，正文与独立章节保留事实附近的链接。原图题名、年代、编号、机构、许可状态、观察范围与下载校验见`references/image-evidence.json`。
 
 10张海外馆藏图有Public Domain或CC0标记；5张中国博物馆官方图仅用于相应藏品的必要教学评述引用，保留署名和水印，未标作开放授权。不要把全部素材目录一概当成可自由再发布的图片包。原始权利不随本工程改变，完整说明见附录C。
 
@@ -108,7 +110,7 @@ git clone history.bundle Hanfu-Atlas-restored
 
 ## 在线阅读与 GitHub Pages
 
-阅读站地址：https://yzyexp.github.io/Learn-Hanfu/ （部署成功后可用）。
+阅读站地址：https://yzyexp.github.io/Learn-Hanfu/ 。
 
 网站从 `book.json`、原有分章 Markdown 和图片独立构建，包含总目录、前后章导航、本篇目录、图像来源与下载页；不复制另一份正文。只需轻量 Markdown 依赖：
 
@@ -118,4 +120,4 @@ python site/build.py
 python -m http.server --directory build/site 8000
 ```
 
-构建会校验 31 个页面的全部站内目标、29 幅图片及替代文本。`.github/workflows/pages.yml` 在主分支内容更新后构建并发布，PR 仅构建。首次需要在仓库 Settings → Pages 将 Source 设置为 GitHub Actions。网站 CI 不安装整书导出依赖，不生成 PDF／EPUB；如获准提供公共电子书下载，可将单独构建且已审核的固定产物放入 `downloads/`；无此目录时网站明确显示电子书尚未附加，不生成断链。下载不授予馆藏图新的使用权。
+构建会校验32个页面的全部站内目标、52幅图片及替代文本；新增上身图鉴逐张列出依据、限制和正文入口。`.github/workflows/pages.yml` 在主分支内容更新后构建并发布，PR 仅构建。首次需要在仓库 Settings → Pages 将 Source 设置为 GitHub Actions。网站 CI 不安装整书导出依赖，不生成 PDF／EPUB；如获准提供公共电子书下载，可将单独构建且已审核的固定产物放入 `downloads/`；无此目录时网站明确显示电子书尚未附加，不生成断链。下载不授予馆藏图新的使用权。

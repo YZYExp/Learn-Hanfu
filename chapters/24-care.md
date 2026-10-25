@@ -34,6 +34,19 @@
 
 日常衣物必须折叠时，避免总让同一位置承受又尖又紧的折线；已有定型褶则按商品说明整理，不为“保护”而随意拆开或重新压烫。衣物之间留出取放空间，往往比添加许多收纳用品更实用。
 
+<!-- visual-study:photo-modern-storage -->
+
+![AI生成的现代教学展示（非历史复原）：现代成衣收纳：支撑肩部与折处](../assets/images/photo-modern-storage.jpg)
+
+**上身观察｜现代成衣收纳：支撑肩部与折处。** 左边用平放与折处支撑分散受力，右边用加垫衣架支撑肩部。先按衣物状况选择方法，不把所有袍裙一律吊挂。
+
+**图像性质与边界：** AI 生成的现代成衣护理展示，非文物修复操作记录。左为平放/柔软支撑思路，右为加垫衣架思路；盒纸材质、酸碱性、衣物纤维和耐久性无法靠生成图鉴定。具体护理仍服从洗标与材料情况。
+
+**依据与支持特征：** [加拿大文物保护研究所《Caring for textiles and costumes》：Storage](https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html)：尽量减少折叠、为折处提供柔软支撑、使用加垫衣架；脆弱、重饰或斜裁衣物更宜平放。
+
+<!-- /visual-study:photo-modern-storage -->
+
+
 ## 长期保存需要检查，而非一封了之
 
 选一个避开长期直晒、不靠近渗水源、便于定期查看的位置。透明袋方便看见内容，但不能替代避光；密封也不自动等于防潮。长期存放前，检查衣物与储放空间是否干净、干燥，并将不同附件分开支撑。

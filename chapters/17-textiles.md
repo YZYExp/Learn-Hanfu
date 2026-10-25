@@ -54,6 +54,19 @@
 
 面对当代复原成衣，还应区分“外观近似”和“材料工艺相近”。机器织物可以模拟古代纹样，现代染料也可以接近某种色相，但它们解决的是相似的视觉效果。若要研究历史工艺，则还需要说明纤维、线、组织、染料和制作方法，不能只给一张漂亮照片。
 
+<!-- visual-study:model-fabric-comparison -->
+
+![AI生成的现代教学展示（非历史复原）：相近版型，不同表面光泽](../assets/images/model-fabric-comparison.jpg)
+
+**上身观察｜相近版型，不同表面光泽。** 相近版型的哑光与反光外观对照。图能提示你观察亮面和褶线，不能告诉你纤维成分、透气率或真实手感。
+
+**图像性质与边界：** AI 生成的现代材质外观对照，非历史复原、非织物检测。两图只演示哑光/反光与褶线的可见差异；不把左图确定为麻、右图确定为丝，不从图推断透气、耐磨或保暖。
+
+**依据与支持特征：** [加拿大文物保护研究所《Caring for textiles and costumes》](https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html)：织物组织、纤维和加工应分别判断；文中讨论缎组织长浮线与表面光泽，不能单靠光泽识别纤维。
+
+<!-- /visual-study:model-fabric-comparison -->
+
+
 ## 从面料读懂衣服的轮廓
 
 薄而柔的布容易顺着身体和系结形成细褶；较挺的布会让袖口、领缘和裙褶保留更明确的边界。但衣服的结果还取决于衬里、包边和裁剪，不能把所有轮廓变化都归因于“古人面料更好”。

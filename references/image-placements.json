@@ -143,5 +143,233 @@
     "chapter": "06",
     "path": "assets/images/illustration-high-skirt.png",
     "title": "高束裙与短衣的外观示意"
+  },
+  {
+    "chapter": "01",
+    "path": "assets/images/model-northern-jiaoxie.jpg",
+    "title": "北朝绞缬绢衣：短身与宽袖",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "02",
+    "path": "assets/images/model-tang-round-collar.jpg",
+    "title": "唐代圆领、束带与靴的整体轮廓",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "02",
+    "path": "assets/images/model-ming-qian-sleeve-layers.jpg",
+    "title": "钱氏三件套近看：两层袖子怎样相接",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "03",
+    "path": "assets/images/model-chu-robe.jpg",
+    "title": "楚袍材料分区的上身参照",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "04",
+    "path": "assets/images/model-han-wadded-robe.jpg",
+    "title": "西汉丝绵袍：衣身、缘边与袖口",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "04",
+    "path": "assets/images/model-gauze-layer-study.jpg",
+    "title": "薄纱叠层观察：现代试穿实验",
+    "kind": "AI生成的现代教学展示（非历史复原）"
+  },
+  {
+    "chapter": "05",
+    "path": "assets/images/model-northern-kuzhe.jpg",
+    "title": "北魏袴褶：让两条裤腿进入视野",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "05",
+    "path": "assets/images/model-northern-jiaoxie.jpg",
+    "title": "北朝绞缬绢衣：短身与宽袖",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "06",
+    "path": "assets/images/model-tang-high-skirt.jpg",
+    "title": "窄袖短衣与高束条纹裙：现代成年模特试穿",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "06",
+    "path": "assets/images/model-tang-banbi.jpg",
+    "title": "半臂外层与窄长袖内层：跽坐模特参照",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "07",
+    "path": "assets/images/model-tang-round-collar.jpg",
+    "title": "唐代圆领、束带与靴的整体轮廓",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "07",
+    "path": "assets/images/model-tang-turn-collar.jpg",
+    "title": "翻领窄袖袍：翻折领面与束带的关系",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "08",
+    "path": "assets/images/model-song-beizi-front.jpg",
+    "title": "周氏墓素罗单衣的正面试穿参照",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "08",
+    "path": "assets/images/model-song-beizi-side.jpg",
+    "title": "素罗单衣侧衩与内层裙：小步移动参照",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "09",
+    "path": "assets/images/model-yuan-bianxian.jpg",
+    "title": "辫线袍类型试制：横向腰线与下裳细褶",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "10",
+    "path": "assets/images/model-ming-qian-three-piece.jpg",
+    "title": "钱氏三件套：短袖在外，长袖在内",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "10",
+    "path": "assets/images/model-ming-qian-sleeve-layers.jpg",
+    "title": "钱氏三件套近看：两层袖子怎样相接",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "11",
+    "path": "assets/images/model-ming-yuanling-portrait-study.jpg",
+    "title": "圆领袍：领口、宽袖、补子和带的位置",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "11",
+    "path": "assets/images/model-ming-daopao-front.jpg",
+    "title": "道袍的正面外观",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "11",
+    "path": "assets/images/model-ming-tieli-ramie.jpg",
+    "title": "贴里试制：断腰与连续褶裥",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "12",
+    "path": "assets/images/model-qing-han-aoqun.jpg",
+    "title": "晚清汉族女服：短袄与马面裙的搭配观察",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "13",
+    "path": "assets/images/model-mamian-three-views.jpg",
+    "title": "前后裙门与侧褶：同裙三面观察",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "14",
+    "path": "assets/images/model-ming-tieli-ramie.jpg",
+    "title": "贴里试制：断腰与连续褶裥",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "14",
+    "path": "assets/images/model-song-beizi-side.jpg",
+    "title": "素罗单衣侧衩与内层裙：小步移动参照",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "15",
+    "path": "assets/images/model-gauze-layer-study.jpg",
+    "title": "薄纱叠层观察：现代试穿实验",
+    "kind": "AI生成的现代教学展示（非历史复原）"
+  },
+  {
+    "chapter": "16",
+    "path": "assets/images/model-tang-round-collar.jpg",
+    "title": "唐代圆领、束带与靴的整体轮廓",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "17",
+    "path": "assets/images/model-fabric-comparison.jpg",
+    "title": "相近版型，不同表面光泽",
+    "kind": "AI生成的现代教学展示（非历史复原）"
+  },
+  {
+    "chapter": "18",
+    "path": "assets/images/model-northern-jiaoxie.jpg",
+    "title": "北朝绞缬绢衣：短身与宽袖",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "19",
+    "path": "assets/images/model-ming-yuanling-portrait-study.jpg",
+    "title": "圆领袍：领口、宽袖、补子和带的位置",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "20",
+    "path": "assets/images/model-ming-qian-sleeve-layers.jpg",
+    "title": "钱氏三件套近看：两层袖子怎样相接",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "21",
+    "path": "assets/images/model-northern-jiaoxie.jpg",
+    "title": "北朝绞缬绢衣：短身与宽袖",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "21",
+    "path": "assets/images/model-song-beizi-front.jpg",
+    "title": "周氏墓素罗单衣的正面试穿参照",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "21",
+    "path": "assets/images/model-ming-qian-three-piece.jpg",
+    "title": "钱氏三件套：短袖在外，长袖在内",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "22",
+    "path": "assets/images/model-contemporary-pair.jpg",
+    "title": "当代男女日常穿用：不冒充某朝标准装",
+    "kind": "AI生成的现代教学展示（非历史复原）"
+  },
+  {
+    "chapter": "23",
+    "path": "assets/images/model-modern-movement.jpg",
+    "title": "同一身当代衣着的站、坐、走",
+    "kind": "AI生成的现代教学展示（非历史复原）"
+  },
+  {
+    "chapter": "24",
+    "path": "assets/images/photo-modern-storage.jpg",
+    "title": "现代成衣收纳：支撑肩部与折处",
+    "kind": "AI生成的现代教学展示（非历史复原）"
+  },
+  {
+    "chapter": "25",
+    "path": "assets/images/model-yuan-bianxian.jpg",
+    "title": "辫线袍类型试制：横向腰线与下裳细褶",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
+  },
+  {
+    "chapter": "26",
+    "path": "assets/images/model-mamian-three-views.jpg",
+    "title": "前后裙门与侧褶：同裙三面观察",
+    "kind": "AI生成的有限复原／类型试制展示（非史料）"
   }
 ]

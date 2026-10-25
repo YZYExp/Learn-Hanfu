@@ -1,0 +1,631 @@
+[
+  {
+    "id": "model-chu-robe",
+    "title": "楚袍材料分区的上身参照",
+    "chapters": [
+      "03-pre-qin"
+    ],
+    "sources": [
+      {
+        "title": "湖北省博物馆《湖博馆藏马山战国楚墓锦袍完成加固保护并对外展出》",
+        "url": "https://www.hbww.org.cn/xwdt/p/11338.html",
+        "supports": "马山战国楚墓小菱形纹锦面绵袍；实物图可见长身、长袖与交掩，说明记录正身、里衬、领缘、袖缘及下摆采用不同织物。"
+      }
+    ],
+    "limitations": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。仅把可见轮廓与材料分区转成上身参照，不是礼书标准深衣或原件纸样复刻。图中色泽、细小织纹、隐蔽系结、内搭、发式和鞋均为展示性补足；下摆缘并未精确再现原件纹织。",
+    "qa": "已看实际像素：长身、长袖、右向交掩，领缘/袖缘与正身有可辨色质差。无螺旋多层裙摆、幻想配饰；四肢与全身完整。只承诺材料分区观察，不用纹理证明织造组织。",
+    "prompt": "Use case: historical-scene. Photorealistic modern museum-costume study: an adult East Asian woman age 38 standing front three-quarter, wearing a newly made interpretive robe guided by this reference image of the small-diamond brocade-faced silk-wadded robe from Mashan Warring States Chu tomb, Hubei Museum. Reproduce the visible GARMENT silhouette rather than a fantasy ancient costume: straight long body, long sleeves broad towards upper arm and gradually narrower at the cuff, overlapping front closing toward the wearer's right; restrained collar edging and sleeve edging, modest proportions. The photographed reference is a flat old artifact, but create fresh silk fabric, muted brown-red and dark brown trim, with only a very subtle tiny diamond weave in the ground. The important teaching feature is that collar border, cuff border and body are different fabrics, visible in softly contrasting texture. Do not invent elaborate dragons, flowers, metal clasps, jewelry, crowns or armor. Avoid a modern multi-turn spiral skirt, wide obi belt, sharply fitted waist, sheer skin or dramatic train. Plain modern dark low bun and minimal flat shoes are deliberately neutral display supports, not historical evidence. Opaque plain cream underlayer minimally visible at neckline. Single full-length view, hands clearly out of sleeves, arms slightly held away to show sleeves, all clothing and shoes visible with breathing room. Warm pale gray seamless photography background, diffuse museum studio lighting, realistic skin and cloth weave. No text, no labels, no watermark. 3:2 landscape, high detail. This is a limited modern visual reconstruction of visible features, not an exact replica or claim about an ancient complete ensemble.",
+    "path": "assets/images/model-chu-robe.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "8304e74fc6cd0270c892aa6505c9931898ff2811b8c93b00fa94000ab719e98a"
+  },
+  {
+    "id": "model-han-wadded-robe",
+    "title": "西汉丝绵袍：衣身、缘边与袖口",
+    "chapters": [
+      "04-qin-han"
+    ],
+    "sources": [
+      {
+        "title": "香港古物古蹟办事处／湖南博物院《绛紫绢地「长寿绣」丝绵袍》",
+        "url": "https://www.amo.gov.hk/sc/visitor-centre/exhibitions/heritage-discovery-centre/han-exhibition/ag29/index.html",
+        "supports": "马王堆M1出土西汉丝绵袍；图中宽大袖身向袖口收束、交掩衣襟及宽缘分区。官方提供衣长130厘米、通袖长232厘米等尺寸。"
+      }
+    ],
+    "limitations": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。只参照官方原件照片的可见外形；不以生成图确认绕襟路径、完整裁片或实际穿着层数。绣纹、颜色、系结、内搭、发式、鞋为近似补足；非等比例复刻。",
+    "qa": "已看全身与袖口近景：两处袖缘均为宽深色边加窄浅色边，袖身膨大与袖口收束可见；右衽外观，只有一处可见系结。图中纹样不视为长寿绣针法复制。",
+    "prompt": "Use case: historical-scene. An educational photograph of a modern Chinese adult woman age 40 wearing a newly constructed padded silk robe, guided strictly by the supplied archaeological robe reference. This is a modern interpretive wearing display, not a photograph of an ancient person or original artifact. The reference is the Western Han Mawangdui M1 purple-ground longevity-embroidery silk-wadding robe in Hunan Museum, 130cm length and 232cm cuff-to-cuff. Closely follow its visible silhouette: long straight robe with broad deep sleeves narrowing into smaller wrist openings, large sweeping overlapping front skirt extension, broad very dark purple-brown borders at collar, cuffs and skirt edge with narrow ochre edging; muted wine-brown ground with understated small curling embroidery-like decoration. Wearer LEFT front overlaps over the right and fastens at her RIGHT side. Maintain substantial sleeve volume and lightly padded textile weight; no fitted bodice, no corset, no giant silk sash, no tiered skirt, no trailing train. Do not invent a multi-turn spiraling modern quju robe. Head hair plain tied back with no jewelry; neutral cream opaque underlayer appears only narrowly at neckline, plain modest shoes. Frame one full standing figure, front three-quarter view, arms held slightly out to expose the wide sleeves and garment's crossover; upper right of composition a separate close detail of the same cuff and sleeve shape. Warm light-gray seamless backdrop, realistic studio garment documentation photography, natural skin and silk, soft light, high detail, 3:2 landscape. No labels or text. Embroidery is an approximate visual reminder, not a faithful stitch reconstruction. Do not reproduce museum watermark or texture damage; robe is new cloth, not distressed.",
+    "path": "assets/images/model-han-wadded-robe.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "005912175c84994570fa4fd21283cb30dfff9cc3137c6b1a75ef45620b472449"
+  },
+  {
+    "id": "model-gauze-layer-study",
+    "title": "薄纱叠层观察：现代试穿实验",
+    "chapters": [
+      "04-qin-han",
+      "15-underlayers-trousers"
+    ],
+    "sources": [
+      {
+        "title": "于思萌、刘大玮《西汉素纱襌衣》，中国社会科学网",
+        "url": "https://cssn.cn/skgz/bwyc/202609/t20260922_6068425.shtml",
+        "supports": "单层无里、交领右衽、缘边与纱衣身不同；文章明确直裾纱衣穿着场景仍有争论。"
+      }
+    ],
+    "limitations": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。这是现代薄纱覆盖不透内层的观察实验，不是马王堆素纱襌衣精确复原，更不证明古人必把它穿在外层。灰色上衣、裤、鞋、领缘纹理和透光程度均为演示选择。",
+    "qa": "已看像素：外层与灰色不透内层可分；袖部透光和边缘密实对比可见；领襟右向交掩，无裸露身体、无现代排扣。仅以可见叠层供观察，不推断材料成分或性能。",
+    "prompt": "Use case: historical-scene. Photorealistic educational photograph of a modern adult Chinese woman age 35 in a costume reconstruction studio. She wears a newly made pale ivory sheer silk gauze long robe over a fully opaque modest light-gray long-sleeved tunic and trousers. This is a MODERN wearing experiment illustrating the single-layer gauze and edged opening described in research on the Western Han straight-hem plain gauze gown, NOT a reconstruction of its disputed original wearing context. The outer garment has a right-closing crossed collar: wearer's left front lies over right, its edge continues toward her right side, no buttons, no wide sash. Long relatively broad sleeves, floor-near straight body without spiral wrapping or trailing skirt. Narrow denser muted cream-brown textile bands at collar and cuffs contrast with translucent gauze body. Gauze transparency should reveal the opaque gray underlayer and hand silhouette but NEVER skin, breasts, or underwear. Single full-length front view with right forearm held a little away from body so reader can see gauze versus opaque cuff, both feet visible. Hair tied simply back, no ornaments; no makeup glamour. Warm pale gray seamless photography backdrop, soft side lighting revealing gauze layers, realistic skin and woven cloth, accurate hands. No text or diagram marks. 3:2 landscape. Do not add an ancient palace, dramatic trains, printed flowers or fantasy accessories.",
+    "path": "assets/images/model-gauze-layer-study.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的现代教学展示（非历史复原）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "0aa07995f2ee7d5c13dd7d5137789a6e22d5799b0880415f345b5e6f5111bda5"
+  },
+  {
+    "id": "model-northern-jiaoxie",
+    "title": "北朝绞缬绢衣：短身与宽袖",
+    "chapters": [
+      "01-reading-evidence",
+      "05-wei-jin",
+      "18-color-pattern",
+      "21-museum-cases"
+    ],
+    "sources": [
+      {
+        "title": "楼淑琦、王淑娟《中国丝绸博物馆：北朝绞缬绢衣的保护修复》",
+        "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=27772",
+        "supports": "短身、基本对襟且下摆微交、喇叭宽袖、单层、红褐两组系带、斜向白色小圈绞缬点阵。"
+      }
+    ],
+    "limitations": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。白色点圈为近似外观，不是微观织物或染缬工艺复刻；腋下拼缝与褶不能由此照片精确确认。灰裙、白内搭、发式为现代展示补足，不代表已有整套出土搭配。",
+    "qa": "初版双视图右侧多出第三组深色系带，已剔除，使用v2。v2逐视复核：左右均恰为上红下深两组系带，领口、宽袖、短身一致；两侧点纹一致到教学观察层面，不承诺点数和裁片。",
+    "prompt": "Use case: historical-scene. Create a photorealistic educational museum-reconstruction studio photograph, not a drawing, of a modern adult Chinese woman age 32 wearing a newly made upper garment closely based on the supplied reference artifact. The reference image shows a Northern Dynasties tie-dyed silk short jacket held by China National Silk Museum. Reconstruct the JACKET ONLY: short straight body to upper hip, essentially center-opening straight fronts with a tiny overlap at the bottom, very wide trumpet sleeves opening out towards wrist, sleeves join body with several gathered transverse folds at underarm, single-layer silk, muted dark purple with a dense diagonal array of tiny irregular off-white square-ring resist-dyed dots. Preserve red-brown upper ties and dark lower tie visible in reference; do not create a cross-collar V-wrap or belted robe. The adult wears plain opaque neutral cream modern underlayer and a simple unpatterned dark taupe floor-length modest skirt solely as unobtrusive modern display support. Hair plain tied back, no historical crown or jewelry. Image is two side-by-side photographic views: left full-length straight front with arms gently held away so sleeves and opening show; right waist-up three-quarter view with one sleeve lightly extended to show trumpet width and underarm gathers. Same jacket and same model. Warm light gray seamless studio background, soft diffuse light, natural skin, realistic silk weight and subtle sheen, ordinary body proportions. No fantasy, no dramatic flowing train, no accessories, no Chinese text, no labels, no watermarks. This is a modern AI-generated interpretive wearing view, not an archaeological photo and not an assertion that the displayed skirt or hairstyle is historically established. Prioritize visible jacket silhouette and front opening over glamour. Landscape 3:2, high detail.",
+    "edit_prompt": "保留双联图，仅删除右侧图衣摆上方最低的一组深色系带，保持左右都只有上红色及中部深色两组系带。",
+    "path": "assets/images/model-northern-jiaoxie.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "a7030c0dc337af5542bbaa49a6eed0a4d747174f630f270940e63e7415e17dd8"
+  },
+  {
+    "id": "model-northern-kuzhe",
+    "title": "北魏袴褶：让两条裤腿进入视野",
+    "chapters": [
+      "05-wei-jin"
+    ],
+    "sources": [
+      {
+        "title": "中国国家博物馆《上衣下袴》",
+        "url": "https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33119.shtml",
+        "supports": "元邵墓侍从俑的束发小冠、宽袖上衣与宽大裤管组合，及右衽变化。"
+      },
+      {
+        "title": "中国国家博物馆《侍从陶俑》",
+        "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211111_252106.shtml",
+        "supports": "墓主卒于528年；馆方描述上衣下裤、上衣左向右掩。"
+      }
+    ],
+    "limitations": "AI 生成的成年模特展示，非史料、非真人实拍，非馆方认证复原。从陶俑与说明转译宽袖上衣、大口裤的关系，不是陶俑隐藏结构的精确还原。颜色、布料、腰带具体结法、小冠材料与鞋为展示性补足。",
+    "qa": "已看像素：上衣近膝、裤分两腿可辨；交领向穿者右侧，宽袖与下裤构成上下分穿，不画成连衣裙。手、鞋完整，帽不作精细考古主张。",
+    "prompt": "Use case: historical-scene. Photorealistic educational modern reconstruction wearing photo of a 35-year-old Chinese adult man, guided by the supplied Northern Wei servant clay figure from Yuan Shao tomb, whose burial is 528 CE. Recreate only securely described clothing features: a relatively short, near knee-length wide-sleeved upper jacket with crossed collar closing to the WEARER'S RIGHT, a fabric waist tie, and clearly SEPARATE very voluminous wide trouser legs extending below the jacket. The jacket falls over the waistband. The trousers must unmistakably be trousers, two distinct legs separated by a modest standing stance, not a skirt or divided modern culottes. Pale ochre-brown upper jacket and muted gray-beige trousers, no rich pattern; colors are neutral modern display choices. A simple small hair-bound crown over neatly tied hair, no long wings, no emperor crown. Single frontal full-body view, arms gently out to allow sleeves to hang, feet a little apart. Plain modern flat cloth shoes only, no armor or weapons. Keep believable ordinary proportions, show cloth volume and not skin. Warm light-gray photography backdrop, soft studio light, skin pores and real textile drape, no fantasy drama, no labels, no text, no watermark. This is a modern interpretive trial of the broad silhouette in the actual clay figure and its museum description, NOT an exact archaeological pattern reconstruction. Do not reproduce the clay surface or the museum watermark.",
+    "path": "assets/images/model-northern-kuzhe.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "228e5a9df3f8990f2c21cfdc3aeb71965eed914ff257ae10967b0f46aff70d18"
+  },
+  {
+    "id": "model-modern-movement",
+    "title": "同一身当代衣着的站、坐、走",
+    "chapters": [
+      "23-wearing"
+    ],
+    "sources": [],
+    "limitations": "AI 生成的现代穿用教学展示，非历史复原、非真实穿着测试。图示不能证明尺寸、舒适度或活动安全。三视仅提供检查位置，实际衣物仍须本人试穿。",
+    "qa": "已看三视像素：同一交领短上衣、裙、鞋；领襟方向、袖长和衣长相符，无新增纽扣。坐姿裙底有接地，作为需要留意的问题写入阅读提示，不称所有动作均合格。站姿与步行双脚清楚。",
+    "prompt": "Use case: photorealistic-natural. Educational contemporary hanfu fitting photo, a triptych of the SAME modern 30-year-old East Asian woman wearing the SAME modest modern hanfu-inspired outfit in three everyday movement checks. This is explicitly a modern design, NOT a historical reconstruction. Outfit: plain muted blue-green right-closing crossed-collar hip-length blouse with moderate sleeves and concealed side fastening, plain dark slate ankle-length generously pleated skirt tied at natural waist, simple flat dark shoes. Her hair is a plain modern low ponytail. Left panel full-body standing upright with arms naturally down; center panel side three-quarter seated on a plain stool with both feet flat; right panel full-body walking one short natural step with hands clear of the hem. Show the same neckline, sleeve lengths, waist height, skirt and shoes consistently in ALL views, NO visible added buttons/ties. The purpose is to inspect hem clearance, sleeve range and skirt coverage during standing, sitting and stepping. Skirt should not drag, no slit exposing thighs, no skin transparency, no costume jewelry, no exaggerated motion. All hands, heads and feet visible. Three equal clean vertical panels on one warm gray studio backdrop with subtle gutter, natural soft light, realistic skin and cloth folds, documentation photography not illustration, landscape 3:2. No captions, text, measurements, watermarks or graphic arrows.",
+    "path": "assets/images/model-modern-movement.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的现代教学展示（非历史复原）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "5cd92a024e921fbefa053ad873a2dd4e7d394daed7da05d4a5c22de1e0930747"
+  },
+  {
+    "id": "model-contemporary-pair",
+    "title": "当代男女日常穿用：不冒充某朝标准装",
+    "chapters": [
+      "22-contemporary"
+    ],
+    "sources": [],
+    "limitations": "AI 生成的现代设计样例，非史料，也不对应任何馆藏整套衣着。现代发式、鞋、裤和便利长度是明确的当代选择；不能拿它反推古代制度。",
+    "qa": "已看像素：成年男女两套现代搭配明确；女直领外层与上衣裙分层，男交领长上衣与裤分层；领口、腰部、鞋可见，衣长不拖地，无仙侠道具。",
+    "prompt": "Use case: photorealistic-natural. An educational photo of two modern adult East Asian people in a contemporary hanfu clothing workshop, each wearing simple modern hanfu-inspired everyday clothes. Left adult woman age 33 wears a muted blue-green straight-front long narrow-sleeved jacket over a plain opaque cream top and a dark red ankle-length pleated wrap skirt; no historical crown or traditional hairstyle, her hair is a tidy modern bob. Right adult man age 40 wears a simple charcoal right-closing cross-collar knee-length tunic with moderate sleeves over dark plain straight trousers, modern short hair. Flat modern shoes and no jewelry. They stand with a comfortable space between them, hands relaxed away from garment openings, both full body and shoes clearly seen. Their outfits are deliberately MODERN everyday reinterpretations, not tied to a dynasty or a claim of ancient exactness. Show practical non-dragging lengths, normal body proportions, realistic cloth textures, natural faces. Warm pale gray studio backdrop, soft diffuse light, clean full-body fashion-documentation photography, 3:2 landscape. No palace, no swords, no fantasy wind or flowing trains, no text or watermarks.",
+    "path": "assets/images/model-contemporary-pair.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的现代教学展示（非历史复原）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "936c6ea41004e1fb7974db16c645c9ca1d92c69fa8b056646ce6878795d052b8"
+  },
+  {
+    "id": "model-fabric-comparison",
+    "title": "相近版型，不同表面光泽",
+    "chapters": [
+      "17-textiles"
+    ],
+    "sources": [
+      {
+        "title": "加拿大文物保护研究所《Caring for textiles and costumes》",
+        "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+        "supports": "织物组织、纤维和加工应分别判断；文中讨论缎组织长浮线与表面光泽，不能单靠光泽识别纤维。"
+      }
+    ],
+    "limitations": "AI 生成的现代材质外观对照，非历史复原、非织物检测。两图只演示哑光/反光与褶线的可见差异；不把左图确定为麻、右图确定为丝，不从图推断透气、耐磨或保暖。",
+    "qa": "已看两视：同模特、相同对襟短外衣轮廓、袖长、内搭与姿势；无闭合件数量漂移；光泽差明显，褶线随材质设定变化。",
+    "prompt": "Use case: photorealistic-natural. An educational textile wearing comparison photographed in a modern costume studio. A diptych of the SAME adult Chinese woman age 35 in the SAME pose and exactly the SAME simple contemporary straight-front hip-length open jacket, with identical seams, narrow sleeves, length and loose fit, over an opaque plain cream crew-neck top and dark skirt. LEFT jacket uses muted gray-beige matte plain woven cloth with visible subtle slubs and softly angular folds; RIGHT jacket uses muted gray-beige smooth lustrous silk-like cloth with reflective sheen and soft rounded folds. No knots or buttons on either jacket. Do not change collar or fit or hue across panels. Both views from head to mid-thigh, her hands relaxed at sides, plain ponytail, warm gray backdrop and identical soft studio lighting and camera. Photographic realistic skin and material, ordinary natural body. This is a generated visual exercise about surface appearance and drape, not a scientific textile test and not a historical costume reconstruction. No microscope insert, labels, words, ruler, arrows, watermarks, no fantasy. Landscape 3:2.",
+    "path": "assets/images/model-fabric-comparison.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的现代教学展示（非历史复原）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "21c698a7e451f36144d2c715293e050ccc2074ac1e7c0f4b74bbca5857c72e06"
+  },
+  {
+    "id": "photo-modern-storage",
+    "title": "现代成衣收纳：支撑肩部与折处",
+    "chapters": [
+      "24-care"
+    ],
+    "sources": [
+      {
+        "title": "加拿大文物保护研究所《Caring for textiles and costumes》：Storage",
+        "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+        "supports": "尽量减少折叠、为折处提供柔软支撑、使用加垫衣架；脆弱、重饰或斜裁衣物更宜平放。"
+      }
+    ],
+    "limitations": "AI 生成的现代成衣护理展示，非文物修复操作记录。左为平放/柔软支撑思路，右为加垫衣架思路；盒纸材质、酸碱性、衣物纤维和耐久性无法靠生成图鉴定。具体护理仍服从洗标与材料情况。",
+    "qa": "已看像素：折处有柔软支撑、衣架肩部宽而加垫，未画尖窄铁丝直接承重；无清洗、化学处理或熨烫文物。双手正常，图中当代花纹不作历史证据。",
+    "prompt": "Use case: photorealistic-natural. A realistic educational photograph for a modern hanfu clothing-care chapter. Contemporary clean home worktable scene, not a museum object and not an ancient scene. Two adjacent clear examples within one horizontal photograph: at left a plain modern silk-like long robe laid flat and gently folded inside a wide shallow archival-style neutral box lined with clean white tissue, soft rolls of tissue supporting the rounded folds rather than sharp creases; at right a light-weight modern muted blue cotton short jacket hanging on a wide padded fabric-covered hanger with broad shoulder support. No wire hanger, no clips pulling fabric, no sealed plastic vacuum bag, no sunlight striking garments, no cleaning chemicals or iron. Include only the hands and forearms of a modern adult in plain sleeves lightly arranging the tissue in the box, natural correct anatomy, never lifting a fragile original artifact. Soft indoor diffuse lighting, pale neutral wall, accurate real cloth texture. This is a generated illustration of support and distribution of garment weight, not a universal instruction for all fibers or a conservation treatment procedure. No written labels, logos, arrows or watermark. Landscape 3:2, crisp detailed editorial photography.",
+    "path": "assets/images/photo-modern-storage.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的现代教学展示（非历史复原）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "6637af5ff756f0444d8cf2f4214257a28c42a6e2a5dff6ffa6f0618bf575a930"
+  },
+  {
+    "id": "model-tang-high-skirt",
+    "title": "窄袖短衣与高束条纹裙：现代成年模特试穿",
+    "sources": [
+      {
+        "title": "故宫博物院《陶彩绘女俑》，新00110572",
+        "url": "https://www.dpm.org.cn/collection/sculpture/233402.html",
+        "supports": "窄袖对襟短襦衫、竖条纹长裙、裙腰及胸且向外翻折。"
+      }
+    ],
+    "limitations": "AI 生成的复原展示，非史料，非实拍人物。 发髻与鞋是简化展示；没有复制原俑高冠与垂巾。 色彩、面料、条纹制作方式、裁片与隐蔽固定均不能由原俑确认。",
+    "qa": "已查看实际像素：高束裙上缘可见外折效果；窄长袖与对襟衣领可辨；无巨型腰结、现代肩带或马面裙结构。 全身、双手、鞋完整；领口与裙上缘无遮挡。 单视图；未展示或声称背部结构。",
+    "prompt": "Use case: historical-scene. Asset type: educational book photograph-style reconstruction, NOT historical evidence, NOT a museum object photograph. Produce one photorealistic full-length studio photograph of a modern Chinese adult woman aged 32 with ordinary realistic body proportions wearing a restrained trial reconstruction of the clothing combination visible on the Palace Museum Tang painted female figurine, object 新00110572, page https://www.dpm.org.cn/collection/sculpture/233402.html. The verified object description supports a narrow long-sleeved short upper garment with straight opposing front edges, a long skirt with vertical stripes, a high skirt top at chest level folded outward. Show exactly these visible relationships: the light warm ivory blouse has closely fitted but not tight straight sleeves reaching the wrists, open straight front edges and a modest broad neckline; the long skirt covers the lower part of the short blouse, its upper rim at upper chest level beneath the arms, a clearly visible narrow outward-folded upper edge, then continuous vertical draping down to the ankles. Skirt is mostly muted taupe-ivory with subtle narrow terracotta vertical stripes, no claims of original colors or construction. Do not make a modern bodice, corset, dress straps, elastic smocking, waist belt, giant bow, pleated schoolgirl skirt or Ming mamian skirt. The skirt is lightly gathered, visually narrow and falling naturally, not a modern princess ball gown. Pose front facing with arms relaxed slightly clear of torso, all fingers visible, collar and folded skirt edge fully visible. Keep a simple unadorned hair bun, plain cloth shoes barely visible below the hem, modern neutral adult face, no jewelry: these are display simplifications, not claimed historical reconstruction. Plain pale warm gray photographic backdrop and floor, soft side-front lighting, realistic woven lightweight silk texture with gentle matte sheen and honest small fabric wrinkles; documentary garment-study photography, 85mm lens feel, level camera, sharp clothing detail. Entire head and both feet inside frame with generous margin. No text, labels, watermark, illustration, drawing, fantasy styling, palace props, embroidery, translucent exposed body, glamor makeup or cinematic filters. One person, one view. The image will be captioned as AI-generated reconstruction with colors, hair, shoes and concealed fastening explicitly uncertain.",
+    "chapters": [
+      "06-sui-tang-women"
+    ],
+    "path": "assets/images/model-tang-high-skirt.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "c3e1cf7526af312e46f7014447deb5f0e5f51c5abdae05d381e5ff3e07d690f4"
+  },
+  {
+    "id": "model-tang-round-collar",
+    "title": "唐代圆领、束带与靴的整体轮廓",
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art, Male attendant, 7th century, 52.190.3",
+        "url": "https://www.metmuseum.org/art/collection/search/54075",
+        "supports": "已查看馆藏史料图：圆领、较窄袖、腰带、膝下袍身和足部的组合。该页确认年代与藏号。"
+      },
+      {
+        "title": "中国国家博物馆《陶男俑》",
+        "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252268.shtml",
+        "supports": "馆方对唐代圆领窄袖袍、幞头与靴组合的解释。"
+      }
+    ],
+    "limitations": "AI 生成的复原展示，非史料。 原参照为旧黑白照片，不能确认原色；图中褐色不代表品级。 帽内构造、闭合方式、靴材质与背面未获该图证明。",
+    "qa": "已查看实际像素：圆领低平闭合，没有现代立领与前中排扣；束带与膝下袍长清楚。 窄袖及双手完整；无佩刀、官品补子或多余悬挂。 帽为简化包裹轮廓，不画宋式长展脚；不宣称复制原俑帽子内部结构。",
+    "prompt": "Use case: historical-scene. Asset type: AI-generated photorealistic modern model demonstrating historical garment reconstruction for an educational book. Create ONE full-length documentary studio photograph of a Chinese man aged 38, average healthy build, natural skin and hair, wearing a restrained Tang round-neck robe ensemble. Specific visual starting point: The Metropolitan Museum of Art Male attendant, 7th century, 52.190.3, https://www.metmuseum.org/art/collection/search/54075, with round neckline, narrow long sleeves, waist belt, straight robe extending to the upper calf and boots; museum interpretation of this combination is corroborated by the National Museum of China 陶男俑 https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252268.shtml. Important: this is a modern clothing study, not an ancient photograph or claimed exact replica. The neckline must be a low, nearly flat closed round neck closely surrounding the base of the neck, with a narrow same-fabric bound edge, NOT a raised Mandarin collar, NOT a crossed V neck, NOT buttoned down the center. The robe is muted medium olive-brown unpatterned silk with a modest natural sheen and believable weight, has slim straight sleeves to the wrists, a slightly bloused upper body at a narrow dark plain belt, and straight lower skirt-like robe section ending below the knees, leaving the lower boots visible. No buttons marching down the front; do not show hidden closure construction. Simple close-wrapped black cloth head covering with low rounded crown and no long horizontal wings. Plain dark brown boots with soft moderate shafts, no armored knees, no fancy turned-up toes. Stand facing camera, hands relaxed at sides and slightly separated from robe to show sleeve outlines; all fingers anatomically ordinary. Normal adult male proportions, not heroic or muscular fantasy. Neutral expression. Warm light gray studio backdrop and floor, soft side-front light, level camera, 85mm documentary lens feel, sharp realistic natural fabric, no smoothing filter. Entire head and soles inside frame with margins. No props, weapons, jewelry, embroidery, rank insignia, belt ornaments, text, labels, watermark, dramatic wind or cinematic fantasy. This image will be captioned with robe color, fabric, precise cap construction, shoes and hidden fastening as modern display choices, not proven original details.",
+    "chapters": [
+      "02-clothing-anatomy",
+      "07-tang-men",
+      "16-head-foot"
+    ],
+    "path": "assets/images/model-tang-round-collar.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "2974d64307cae23357179c105848fb81abe8de56e36080d828166a930c473a23"
+  },
+  {
+    "id": "model-tang-turn-collar",
+    "title": "翻领窄袖袍：翻折领面与束带的关系",
+    "sources": [
+      {
+        "title": "中国国家博物馆《三彩釉陶牵马俑》",
+        "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252267.shtml",
+        "supports": "馆方明确浅黄色翻领窄袖袍、中腰束带；已下载查看其正面图片，蓝色翻领与袍身关系清楚。"
+      }
+    ],
+    "limitations": "AI 生成的复原展示，非史料。 此图站立观察翻领，不是骑马姿势或骑具复原；不能据此断定隐藏开衩。 釉色只能辅助辨认色区，不能证明原服染料；帽、靴与隐蔽系结简化。",
+    "qa": "已查看实际像素：两片翻折领面展开，窄袖、束腰、长袍和下部靴可辨。 不是现代西装缺口驳领；领面与衣身是柔软织物，不是硬甲片。 双手、头顶与鞋底完整；没有无依据骑具或配饰。",
+    "prompt": "Use case: historical-scene. Asset type: modern model garment-study photograph of a historically informed Tang turned-collar robe, not a historical photo. Create a single full-length photorealistic studio image of a Chinese man aged 40 with an ordinary slightly sturdy build, wearing the clothing combination seen on the National Museum of China 三彩釉陶牵马俑, https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252267.shtml. The museum identifies pale yellow turned-collar narrow-sleeved robe and belt. Specific silhouette: a restrained muted pale ochre long robe ending just above ankles, narrow full-length sleeves, narrow dark brown waist belt; two large soft fabric turned-back collar pieces in muted desaturated blue-gray create a deep broad V across upper chest, their lower edges softly rounded/angular as on the figurine, NOT modern notched suit lapels, NOT a crossed wrapped collar, NOT standing collar. A very small triangular area of plain ochre underlayer is visible at center upper chest. The robe front below the turned collar is plain and unpatterned, no center button parade, no breast pockets. The collar surfaces must be woven silk, not armor plates or leather. The subject stands with body a few degrees toward camera-left, head neutral, arms slightly bent but not crossing the collar or belt, both hands open relaxed and fully visible. Use a simple compact wrapped black fabric head covering with soft short hanging cloth ends, no long rigid Song-dynasty wings. Plain dark cloth or soft leather boots visible under hem. All textiles have believable matte natural drape and fine weave, no fashionable distressed linen or shiny polyester. Neutral warm-gray studio background and floor, gentle side-front light, level camera, entire head and both soles comfortably inside frame, realistic normal adult skin and face. No horse, riding equipment, weapons, jewelry, ranks, embroidery, extra belt accessories, wall scenery, captions, writing, watermark, fantasy elements or theatrical makeup. This is a restrained visual study of the turned collar, narrow sleeves and belted silhouette; colors are suggested by glazed ceramic but not evidence of textile dyes, cap internal construction, boots and hidden fasteners are simplified and must not be foregrounded as facts.",
+    "chapters": [
+      "07-tang-men"
+    ],
+    "path": "assets/images/model-tang-turn-collar.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "995f65fdd467cf1cbde9f7ab285b56fc7317cdeb4615fc4997fc8cc66d0096d4"
+  },
+  {
+    "id": "model-song-beizi-front",
+    "title": "周氏墓素罗单衣的正面试穿参照",
+    "sources": [
+      {
+        "title": "中国丝绸博物馆《一物Vol.38｜素罗单衣》",
+        "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354",
+        "supports": "1274年周氏墓实物；衣长120cm、通袖长140cm；直领对襟、窄袖、长侧衩、异色缘边与一粒同料纽扣。"
+      },
+      {
+        "title": "中国丝绸博物馆《素罗背子》",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1830",
+        "supports": "同件藏品基本形制及同料纽扣，已查看仓库中的馆藏实物图。"
+      }
+    ],
+    "limitations": "AI 生成的复原展示，非史料，不是原件穿着照片或等比例裁剪依据。 胸前覆盖与裙为中性不透内层补足，不宣称是周氏完整穿着组合。 现存褐黄色不等于复原染色；罗孔细观与纽扣编制工艺仍须看实物，不以生成纹理证明。",
+    "qa": "已查看实际像素：直领对襟、不交叠，黄缘沿领襟延续到下摆，袖口有同色缘。 正面只有一粒同料闭合件，编辑已移低位置且清除原闭合件；无颈、胸、腰额外扣带。 下摆至小腿，内层覆盖完整；手与鞋清楚，无透体、装饰性金纹。 与侧面成图已交叉检查：均仅一粒前襟闭合件，位于大腿处；无颈/胸/腰额外扣带；领襟黄缘与袖口黄缘连续，窄袖与外衣小腿长度一致。",
+    "prompt": "Use case: historical-scene. Asset type: modern adult model photograph-style educational reconstruction of a specific Southern Song outer garment. Create ONE full-body front-view photo of a Chinese woman aged 35, about 165 cm tall, ordinary natural proportions, wearing a carefully restrained trial reconstruction of China National Silk Museum's plain gauze single-layer outer garment from Zhou's tomb in De'an, dated 1274; verified museum source https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354 and garment collection record https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1830. The actual garment is 120 cm long, arm-to-arm length 140 cm, straight collar and opposed front panels, narrow long sleeves, two tall side slits around 64 cm, dark brown gauze body, pale yellow gauze edging about 6 cm wide at collar/front edges/cuffs and an additional fine 1 cm edge by collar. Photograph a living adult wearing new fabric of this general construction, not the fragile antique. It should be a long straight lightweight open-front robe reaching lower calf, not a bathrobe and not a modern fitted coat. The two front edges run vertically down from a small shallow neck curve, do NOT cross at chest. Keep it only modestly open, with a plain opaque ivory chestcover and a muted gray-beige lightly gathered full-length skirt underneath. These underlayers are neutral teaching additions, not a specific proven Zhou ensemble. Dark umber fine open-weave silk gauze appears subtly translucent only against the opaque inner layers; sleeves may show skin softly through very fine gauze, never net costume or lace. Front panels are held near one another at ONE single small self-fabric knot-and-loop closure, located low on the front, about two thirds of the way from shoulder to outer hem, around upper thigh level. There must be exactly one closure, not a row, no visible ribbons, no extra buttons at neck or waist. Slight front opening below that closure. The two side slits exist but are understated in this frontal view; show only their natural small openings at the sides, no invented back view. Sleeves end just at wrists, gently tapered, small pale yellow cuffs. Arms slightly away from body so both sleeve shapes are visible, palms relaxed inward, all fingers visible, collar and closure unobstructed. Plain bun without ornament and plain dark cloth shoes are display simplifications. Warm pale-gray studio backdrop and floor, soft side-front lighting, neutral expression and natural skin detail, true photographic textile realism, 85mm level camera feel. Entire head, garment hem and both feet comfortably in frame. No text, watermark, embroidery, jewelry, shiny satin, stiff broad lapels, crossed front, belt, dense pleating, fairy styling, palace props or glamor treatment. This is AI-generated reconstruction and not a claim of recovered original colors or of exact four-warp gauze microstructure.",
+    "edit_prompts": [
+      "Edit this generated Southern Song robe study photograph only. Preserve the same adult woman, face, hair, pose, two straight opposed front edges, sleeve dimensions, brown translucent gauze, pale yellow front/cuff edging, skirt, lighting and frame. Correct the location of the single brown self-fabric knot-and-loop fastener to follow the photographed Zhou tomb garment: there is exactly ONE small closure, positioned farther down the front, roughly two thirds of the vertical distance from shoulder to outer-robe hem, at mid thigh, about 20 cm lower than it is in this image. Remove the original higher closure completely. The two front edges should approach each other naturally at the new lower single closure and hang naturally above and below it. Do not add any other buttons, fasteners, ties, seams or closures. Keep the outer hem at lower calf and the side slits unchanged. No text."
+    ],
+    "chapters": [
+      "08-song",
+      "21-museum-cases"
+    ],
+    "path": "assets/images/model-song-beizi-front.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "1952b2bca17d3f5db2e5a35fac157daebab800acf2e8e48129ea3cb93e4b4ff0"
+  },
+  {
+    "id": "model-tang-banbi",
+    "title": "半臂外层与窄长袖内层：跽坐模特参照",
+    "sources": [
+      {
+        "title": "故宫博物院《陶彩绘持腰鼓女俑》，新00142343",
+        "url": "https://www.dpm.org.cn/collection/sculpture/233415.html",
+        "supports": "馆方确认内窄袖襦衫、外罩半臂、下穿长裙、跽坐。已下载并查看原俑像素，外短袖与内长袖的边界可见。"
+      }
+    ],
+    "limitations": "AI 生成的复原展示，非史料。 省去腰鼓，让两层袖口和外衣下缘可见；不把省略道具当作原像复原。 领口精确结构、隐蔽固定、布料、颜色与简化发髻属于试制补足，不能从俑中完整证明。",
+    "qa": "已查看最终独立重新生成的像素：短袖确实存在，不是无袖马甲；白色窄长袖清楚延伸到腕部，蓝色外衣下缘在裙上方。 两手、手指、跽坐轮廓和裙摆完整；无多余腰鼓、饰物、飘带。 最终版本无可见系带、纽扣或花纹；此前编辑中出现的显眼系带和装饰纹理版本已经弃用。 单视图，不凭跽坐原俑虚构站立裙长或背面裁片。",
+    "prompt": "One photorealistic documentary studio photograph for a Chinese clothing history textbook. A modern Chinese adult woman aged 35 with normal body proportions kneels upright seated on her heels on a pale warm-gray studio floor, with natural relaxed face and a plain tied-up bun. Show her whole head, hands, knees and skirt hem. Her clothing demonstrates the three visible layers in the Palace Museum Tang painted female waist-drum musician figurine 新00142343, https://www.dpm.org.cn/collection/sculpture/233415.html: a plain off-white narrow long-sleeved shirt, a plain dusty blue short-sleeved banbi jacket ending at waist, and a plain muted red long skirt resting on the floor over her bent knees. The blue jacket has true short sleeves ending on the upper arms, so the long ivory inner sleeves are clearly visible from there to each wrist. The jacket has a small V at the neck and a narrow right-closing crossed front; its left panel lies over the right panel, with no exposed fasteners at all. Its practical hidden fastening is not illustrated. No visible bow, ties, ribbon, belt, buttons or buckle. Hands rest lightly on thighs away from the jacket's front edges, every finger ordinary and anatomically clear. Omit the historical figure's drum so the clothing layering is visible. No historic headwear or ornament. Important fabric requirement: every garment is a SINGLE SOLID COLOR with smooth plain silk surfaces, soft matte finish and natural folds, completely without any motif, jacquard, geometric grid, pseudo-writing, flowers, embossing or decorative texture. Fine natural cloth grain is almost invisible. Do not apply an artificial fabric overlay texture. The garment should look newly sewn, not antique. Soft side-front light, level camera, quiet neutral portrait, crisp believable skin and garment edges, no fantasy or fashion treatment. No text or watermark, no labels, no scenery. This is an AI-generated modern-model teaching reconstruction, not a historical image. Colors, hair, exact neckline, concealed fastening and fabric are simplified demonstration choices, not proven features of the source. The source supports the layering and kneeling silhouette, not a complete precise pattern.",
+    "chapters": [
+      "06-sui-tang-women"
+    ],
+    "path": "assets/images/model-tang-banbi.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "8bd01ab10e03d9f769dec52a726b5f2a0743f20b819beef3efefa6381a582726"
+  },
+  {
+    "id": "model-song-beizi-side",
+    "title": "素罗单衣侧衩与内层裙：小步移动参照",
+    "sources": [
+      {
+        "title": "中国丝绸博物馆《一物Vol.38｜素罗单衣》",
+        "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=28354",
+        "supports": "同一周氏墓单衣，馆方记录两侧约64cm长衩、窄袖、对襟、异色缘边与一粒同料纽扣。"
+      }
+    ],
+    "limitations": "AI 生成的复原展示，非史料，不是等比例纸样。 小步移动及内层胸前覆盖、裙、鞋是演示安排；不宣称周氏生前如此成套搭配。 仅解释侧衩使衣片分离的关系，背中缝、全部内层与罗组织微观仍不在证据范围。",
+    "qa": "已查看实际像素：镜头侧的直向开衩开启，露出完整不透内裙，手没有遮挡衩口。 与正面图核对：仅一粒同料前扣，仍在大腿处；没有增添腰带/胸带/侧扣。 领襟黄色缘边与袖口色区保持，窄袖和小腿外衣长度对应；头手鞋均完整。 无背面视图、无夸张侧露肤；生成布面细纹不作为四经绞罗微观复制。",
+    "prompt": "Edit the provided modern adult model photograph into a SECOND standalone view of exactly the SAME woman and exactly the SAME reconstructed Song outer garment, not a diptych. Rotate the model to a clear 60-degree three-quarter side view and have her take a very small natural step so the camera-facing side slit gently separates and shows the opaque inner skirt. Keep the same brown gauze, pale yellow collar/front/cuff borders, fine extra edge along the front collar, the same straight opposed-front opening, same narrow sleeves, same lower-calf outer hem, same ivory opaque chestcover and gray-beige skirt and dark simple shoes. Keep exactly ONE small dark brown knot-and-loop front closure at the SAME mid-thigh height as in the reference photo; there must be no closure at neck, chest, waist, or side. No ribbons. The side slit is a simple vertical interruption in the side seam from the lower hem up about 64 cm on a 120 cm garment, so its upper endpoint is at the lower hip/upper-thigh region, not the waist or underarm. Show the slit unobscured: move the camera-facing hand slightly forward away from the side seam, and keep the opposite hand visibly relaxed. The slit edges separate just enough to make their straight construction and the inner skirt visible, not a dramatic cape opening. The body remains modestly covered by opaque underlayers. Do not invent a back-center seam or back view. Preserve ordinary adult anatomy, natural folds, subtle translucent gauze texture rather than coarse fishing net, neutral expression, simple bun, soft side-front light and pale gray studio floor and backdrop. Entire head, fingers and feet inside frame. No text, watermark, additional people or invented accessories. This second view is an AI-generated teaching trial, not a source photograph or an exact cutting-pattern proof.",
+    "edit_prompts": [
+      "Edit only the visible ivory-gray inner skirt in this photograph. It must be the SAME plain unpatterned skirt as in the front-view companion photograph. Remove any curling, floral, brocade, damask or embossed motifs from the inner skirt fabric, replacing them with a plain very fine straight-thread silk weave and natural folds. Do not change the brown gauze outer garment, its straight collar edges, pale yellow edging, sleeve cuffs, tall side slit, sole single dark front closure or its height. Do not add buttons or ties. Preserve the woman, face, hairstyle, pose, hands, feet, lighting and background exactly. No text."
+    ],
+    "chapters": [
+      "08-song",
+      "14-robes"
+    ],
+    "path": "assets/images/model-song-beizi-side.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "10c1f7c26138fb1e9dd79bfa9b7b49cc0ee1bdb77dae42f3f81b294d24a603a4"
+  },
+  {
+    "id": "model-yuan-bianxian",
+    "title": "辫线袍类型试制：横向腰线与下裳细褶",
+    "sources": [
+      {
+        "title": "郑瑶、刘大玮《元代土黄色斜纹绸辫线袍》，中国社会科学网/社科院专刊，2026-10-20",
+        "url": "https://www.cssn.cn/skgz/bwyc/202610/t20261020_6074107.shtml",
+        "supports": "梳妆楼M1实物的交领右衽、窄袖、上下分裁、腰缀辫线与下裳密褶。已查看刊载的整体实物及显微细节图。原物53条腰线与腋侧9纽是文献中的具体数据，不声称生成图逐项复制。"
+      },
+      {
+        "title": "中国丝绸博物馆《辫线袍》",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1848",
+        "supports": "只辅助其类型定义：交领右衽、窄袖、宽下摆、紧束腰部与钉缀辫线。该件仅存左肩，不拿它证明完整腰身。"
+      }
+    ],
+    "limitations": "AI 生成的类型层面试制展示，非史料，非梳妆楼原物的逐件复制。 仅承诺右衽、窄袖、横向密集腰线与纵向细褶的关系；不以图中可数行数对应原物53条或重建九纽位置。 发型、颜色、内衬及裤为简化补足。没有画日月、金乌或月兔，也不推断质孙制度身份。 真实辫线的材料、编结与手针钉缀应查实物/研究图，不由生成的表面条纹来证明。",
+    "qa": "已查看实际像素：外层左襟覆盖右襟，主斜线从画面右上走向左下，即穿着者右侧闭合。 袖至手腕且较窄；横线集中在腰部，下面密褶明显，没有把腰线画成外挂宽腰带或正面系结。 主体到膝的局部观察构图；手指完整，已将裙下露腿更换为简单裤装。 腰线数量不等同原物53条，所以严格限为类型试制图；无无据日月纹、金属带銙、帽型或身份标志。",
+    "prompt": "Use case: historical-scene. Asset type: AI-generated modern-model reconstruction photograph demonstrating a Yuan braided-waist robe type, not a recovered original or historical photograph. Create one photorealistic studio view of a modern Chinese man aged 40 with ordinary adult proportions wearing an unornamented garment trial grounded in the actual robe excavated from Shuzhuanglou tomb M1, Guyuan, Hebei. Verified primary research by Zheng Yao and Liu Dawei of the scientific archaeology laboratory: https://www.cssn.cn/skgz/bwyc/202610/t20261020_6074107.shtml. The published object shows a right-closing crossed collar, narrow sleeves, separately cut upper and lower parts, dense horizontal stitched-on braided cords at the waist and a closely gathered lower skirt section. Focus on those observable features, not ethnicity costume stereotypes or ceremonial regalia. Compose a front-facing view from the top of the adult man's head to just below the knees so the neck, sleeves, both hands, waist and skirt construction fill the frame; feet are intentionally outside this waist-study framing. The plain subdued tan-brown silk garment has a crossed collar, with the WEARER'S LEFT front panel lying on top, its dominant diagonal edge running from the wearer's left neck (viewer RIGHT) down to the wearer's right lower ribs (viewer LEFT), unambiguously right-closing. No modern stand collar. Slim straight long sleeves, wrist cuffs, no large flaring sleeves. Across the natural waist is an integral approximately 15 cm-high densely packed band of many thin horizontal braided silk cords stitched directly onto the garment body, not a separate tied belt, not elastic, not knitted ribbing, not a leather corset. Below this band the separate skirt section is visibly joined and densely gathered into fine irregular vertical folds before widening modestly toward the knee-length hem. The published object has 53 cords and nine small side fasteners, but this illustration is a type-level trial rather than a scale-exact replica: do not fake readable counts or foreground unseen fasteners; angle the near arm naturally so the tiny right-side fasteners are not a teaching focus, and do not add any center-front buttons, ties or visible bows. No metal plaques, no embroidered animals, sun/moon or gold patterns, because this study concerns the waist structure alone. The man's hair is short and plain, no historical hat claimed, no jewelry or weapons, both hands relaxed slightly away from hips so the cord band and gathers remain unobstructed, normal fingers. Pale warm-gray studio backdrop and floor, soft side-front daylight, natural face and skin, fine silk with a quiet matte sheen and believable weight, clear documentary textile photography, not illustration. No text, watermark, cinematic costume styling or fairy fantasy. Color, face, inner layer and cord visibility are demonstration choices, not restoration claims; do not age or tear the fabric.",
+    "edit_prompts": [
+      "Edit this modern model study photograph with two narrow factual corrections only. First, the integral horizontal-cord waist zone currently has overly thick rope ridges; replace them with much finer densely packed horizontal stitched silk cord rows, each only roughly 2 to 3 millimeters in diameter, making the surface a tightly spaced field of very thin braided lines rather than a thick rope belt. Keep the band integrated into the garment, approximately the same total height, with no buckle, sash or free hanging ends. Do not alter the correct right-closing crossed collar, narrow sleeves or dense vertical gathers below the waist. Second, cover the tiny exposed area of bare legs below the knee-length garment hem at the bottom of the image with plain dark brown cloth trousers. The framing remains head to just below knees. Preserve the same man, pose, hands, natural silk, neutral backdrop and lighting. No new decoration, insignia, metal fittings, patterns, buttons or text. This is a type-level educational trial, not a claim to replicate a counted set of archaeological stitches."
+    ],
+    "chapters": [
+      "09-liao-jin-yuan",
+      "25-comparison"
+    ],
+    "path": "assets/images/model-yuan-bianxian.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "e75b9c5b8c8c0bba64433f7403f40786f59009d283034074d10baf58be154e2a"
+  },
+  {
+    "id": "model-ming-qian-three-piece",
+    "title": "钱氏三件套：短袖在外，长袖在内",
+    "sources": [
+      {
+        "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+        "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+      }
+    ],
+    "limitations": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。只示范正面层次。色相、现代发髻、鞋及具体刺绣细节为展示性补足，不复原染前原色或隐藏结构。",
+    "qa": "已查看实际像素。直领对襟正确；外短袖/内长袖可分；中心一对系带闭合；首版误添的胸前小纽扣已于v2删除；上下衣裙分离，裙褶清楚；正面手与鞋完整；无文字。",
+    "prompt": "Use case: photorealistic-natural.\nAsset type: educational full-body modern reproduction fitting photograph for a Chinese clothing-history book, NOT a historical photograph and NOT a claim of a certified exact reconstruction.\nPrimary request: show a modern adult Chinese woman about 35 years old, ordinary body proportions, wearing an evidence-limited replica of the early Ming Qian woman's three-piece outfit from China National Silk Museum. The attached museum photograph is the only garment reference: copy its clothing silhouette and layering, not its aged damage, watermark or background.\nReference-supported details: inner long-sleeved straight-collar center-front-opening shirt in subdued pale ochre silk with extremely subtle woven grid texture; outer slightly longer straight-collar center-front-opening short-sleeve plain silk shirt in light warm flax/beige. Both fronts are straight and meet vertically, NOT crossover robes. Outer short sleeves reach around elbows, and the inner long broad straight sleeves continue visibly to wrists. Outer top about 73 cm long on a 165 cm wearer, reaching lower hips/upper thigh, a little longer than the 70 cm inner shirt. A pair of slender cloth ties closes the front at the lower chest; no buttons. Very narrow restrained floral stitching on the collar border, not ornate trim. A 102 cm long plain-silk pleated skirt worn underneath from natural waist to shoes: longitudinal pleats and a visibly broader central fold, not an oversized rectangular late-Qing ornamented apron. Upper shirt remains worn outside and covers the skirt waist, no belt.\nComposition: one centered woman, straight frontal full-body view, head and entire shoe soles visible with ample margin. Arms rest slightly away from body to show both sleeve layers without dramatic posing; anatomically normal hands, collar and fastening unobstructed. Neutral expression, ordinary natural skin, dark hair simply gathered into a small modern low bun. Unembellished flat closed shoes barely visible; hairstyle, shoes and neutral color are modern display choices, do not invent historical finery.\nScene: warm off-white seamless studio backdrop, soft front-side daylight, documentary clothing catalogue photography, real woven fabric texture, physically plausible gravity and loose rectangular cut. New cloth, not a stained excavated garment.\nAvoid: crossed lapels, high stand collar, qipao, Manchu features, fantasy/xianxia, wedding makeup, ornate headdress, palace scenery, weapons, jewelry, shiny synthetic satin, modern fashion tailoring, chest-high skirt, cinched waist, floor trailing, text, labels, captions, watermark, collage.",
+    "edit_prompt": "Use case: precise-object-edit. Edit this modern reproduction fitting photograph. Make exactly two corrections: remove the tiny brown button/closure at the center front just above the larger tied bow, leaving smooth uninterrupted vertically meeting fabric edges there; refine the fabrics from coarse rough linen-like texture to fine, matte woven plain silk and very subtle silk twill, still natural and not shiny synthetic. Preserve all other anatomy, pose, background, collar, paired center-front cloth ties, elbow-length outer sleeves over long inner sleeves, skirt folds, garment lengths and framing exactly. No added text.",
+    "chapters": [
+      "10-ming-women",
+      "21-museum-cases"
+    ],
+    "pixels": {
+      "width": 1024,
+      "height": 1536
+    },
+    "path": "assets/images/model-ming-qian-three-piece.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "957e9f9a5e954c22c2bd4131434e080a2920adca4bfaa84d85886b0ed39c1a47"
+  },
+  {
+    "id": "model-ming-daopao-front",
+    "title": "道袍的正面外观",
+    "sources": [
+      {
+        "title": "董进《图说明代宫廷服饰（六）——皇帝便服》，故宫博物院",
+        "url": "https://www.dpm.org.cn/Uploads/File/2020/04/22/u5e9fff2deb2d4.pdf",
+        "supports": "道袍直领大襟右衽、大袖收口、系带固定；侧开裾由内摆遮蔽。见印刷页116–117。"
+      }
+    ],
+    "limitations": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。这是去除纹样的外观试制模型，不是定陵任一件衣物的完整复制。蓝色、帽、鞋为展示性补足；照片不能证明隐藏暗摆的裁片和缝线。",
+    "qa": "已查看v3实际像素。纠正首版袖端全敞后，宽袖下部缝闭并自然垂成圆弧，腕部留固定小开口；移除修图误添的现代袖衩线。右衽、白领、长身无断腰、右侧两组系带保持；无额外纽扣，手鞋完整。精确袖裁片仍以来源为准。",
+    "prompt": "Use case: photorealistic-natural.\nAsset type: documentary full-body fitting photograph of an explicitly modern experimental replica for a clothing-history book.\nA Chinese adult male model, age 40, ordinary build, neutral face, stands facing camera with arms gently away from torso, wearing a plain muted slate-blue late-Ming-style daopao. Attached Palace Museum scholarly page is a STRUCTURAL reference, not an image to reproduce: follow its top garment drawing's cross-collar left front over right (the outside diagonal ends at wearer's right, viewer's left), long unbroken robe body without horizontal waist seam, large hanging sleeves with rounded lower edges and narrowed cuff openings, loose ankle-length silhouette. Thin clean white removable collar follows the crossed neck. Closure is a pair of cloth ties at wearer's right underarm and another lower on the same side, hidden under the crossed front and arm, never central frogs or buttons. Side openings are fully backed by inward-folded matching fabric so no pants or exposed leg shows. Do not display the internal engineering or draw cutaway seams. This is an exterior wearing demonstration, not a sewing diagram or royal costume.\nMuted plain silk with soft natural drape, no motifs. No belt, no decorative trim, no insignia. Simple dark close-fitting modern plain cap and unobtrusive black flat shoes are display accessories, not an authenticated ensemble. Full head and shoes in frame, hands normal and unobstructed. Off-white seamless studio background, even soft side-front illumination, realistic skin, fine woven fabric, subtle gravity folds, neutral eye-level catalogue photograph. No text, no labels, no watermark, no collage, no sword, no fantasy, no imperial crown, no heavy makeup, no fitted modern tailoring, no kimono sash, no standing collar.",
+    "chapters": [
+      "11-ming-men"
+    ],
+    "pixels": {
+      "width": 1089,
+      "height": 1445
+    },
+    "edit_prompts": [
+      "Use case: precise-object-edit.\nEdit ONLY the sleeve-end construction of the blue daopao in this image. Preserve the face, pose, body, robe length, color, crossed collar, white collar insert, exactly two right-side ties, shoes, cap and background exactly.\nBoth large sleeves must have NARROWED CUFF OPENINGS 大袖收口. Currently they appear fully open across the entire sleeve end, which is wrong for this specific daopao study. Sew shut the lower roughly two-thirds of EACH sleeve end with matching blue fabric. Leave only a small upper opening around the wrist, enough for the hand to emerge naturally. The wide sleeve fabric must hang down below that small wrist opening as a CLOSED rounded bag-shaped lower portion. Show a subtle vertical sewn closed edge below the wrist opening, NOT an open gaping hem, NOT a separate contrasting band, NOT a modern tight ribbed cuff. The lower sleeve contour should be softly rounded as in Ming daopao diagrams. Both hands stay fully visible and anatomically normal. No other change, no text.",
+      "Use case: precise-object-edit. Make only a tiny surface correction: remove the two short vertical dark stitched placket-like lines just above the hands, one at each sleeve end. Replace those lines with continuous same-colour blue cloth. Preserve the narrowed wrist openings and the broad rounded hanging closed lower sleeves. There must be no modern slit/placket/zipper on either sleeve. Keep all anatomy, two right-side ties, crossed collar, cap, shoes, pose, lighting and all remaining garment details unchanged. No other edits."
+    ],
+    "path": "assets/images/model-ming-daopao-front.jpg",
+    "width": 1089,
+    "height": 1445,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "c52925bab70326b1b55c519fca0f9038008e326b77a239e9c4c131b843667450"
+  },
+  {
+    "id": "model-ming-tieli-ramie",
+    "title": "贴里试制：断腰与连续褶裥",
+    "sources": [
+      {
+        "title": "郑瑶、刘大玮《明代本色夏布贴里》，中国社会科学网",
+        "url": "https://www.cssn.cn/skgz/bwyc/202609/t20260915_6067349.shtml",
+        "supports": "江西丰城明墓本色夏布贴里，交领右衽、上衣下裳分裁相接、腰部施褶、夏布材料。"
+      },
+      {
+        "title": "董进《图说明代宫廷服饰（六）——皇帝便服》，故宫博物院",
+        "url": "https://www.dpm.org.cn/Uploads/File/2020/04/22/u5e9fff2deb2d4.pdf",
+        "supports": "贴里上下分裁、前后断腰、下部施褶、无同类中央马面；文章附定陵实物与结构参照，见115–116页。"
+      }
+    ],
+    "limitations": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。这是跨材料互证的结构试制，不是丰城实物裁片复刻。袖幅、褶数、帽鞋与具体尺度未经丰城实物高清图确认；不能用图推定其身份，也不复制帝王纹样。",
+    "qa": "已查看实际像素。右衽交领、明确横腰接缝，前中亦有连续褶而无平阔马面；麻织物与宽松廓形清楚；无龙纹、补子或腰带遮挡；单视图不作未核实的背面。",
+    "prompt": "Use case: photorealistic-natural.\nAsset: full-body documentary photograph of a modern adult model in an experimental Ming tieli reproduction, for teaching garment structure, not an excavated object.\nModern Chinese man age 32, normal physique, neutral expression, standing square to camera. Plain natural unbleached ramie/linen tieli: LEFT front crosses over right and closes on wearer's RIGHT (viewer left), straight crossed collar; long sleeves, moderate broad body, a clearly visible horizontal seam at the natural waist joining the separately cut upper body to the skirted lower body. Below the waist, a continuous series of regular pleats distributed around the entire visible circumference, including the front center. No broad flat central apron or mamian. No contrasting waistband or belt concealing the seam. Lower skirted part reaches ankles, loose but not a gigantic fantasy silhouette. Fine natural woven bast-fibre cloth, cream flax colour, no silk gloss, no embroidery, no animal motifs, no heraldic square.\nThe attached Palace Museum article page is a structural comparison showing a Ming tieli upper/lower division and front pleating, NOT permission to copy royal decoration. The specific plain material and waist construction are based on Zheng Yao and Liu Dawei, 'Ming natural-colour ramie tieli', about the Fengcheng Jiangxi excavated garment. Do not copy the illustration's crown, dragons, colours, labels or jewellery.\nModel has plain dark close-fitting cap, plain black cloth shoes, no jewellery. These are unobtrusive display choices. Arms slightly spread to show sleeve and waist, hands fully visible. Complete head and shoes, generous margins, one figure only, warm pale grey studio backdrop, soft frontal-side natural light, realistic skin and convincing hand-sewn woven garment drape. No text, no watermark, no modern cuffs, no button placket, no high standing collar, no exposed legs, no armor or weapons.",
+    "chapters": [
+      "11-ming-men",
+      "14-robes"
+    ],
+    "pixels": {
+      "width": 1089,
+      "height": 1444
+    },
+    "path": "assets/images/model-ming-tieli-ramie.jpg",
+    "width": 1089,
+    "height": 1444,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "8d9081b1733841e6b34169f83cdd6732492c135f7ffd9bea133c31a870b22146"
+  },
+  {
+    "id": "model-ming-yuanling-portrait-study",
+    "title": "圆领袍：领口、宽袖、补子和带的位置",
+    "sources": [
+      {
+        "title": "The Metropolitan Museum of Art, Portrait of a Gentleman, 51.39.4",
+        "url": "https://www.metmuseum.org/art/collection/search/48939",
+        "supports": "16或17世纪画像中的圆领红袍、方形补子、腰带与带翼帽的组合。馆方提醒画像身份可能理想化。"
+      }
+    ],
+    "limitations": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。据画像转译可见位置关系，不是人物复原。补子、带銙细节及织纹为近似；不能据生成的鸟纹判定官阶。内层领、鞋、当代模特及坐具为补足。",
+    "qa": "已查看实际像素。外袍为圆领而非交领；领/补子/带分区清楚；双宽袖完整，二鸟纹未做品级承诺；没有帽翅裁切或手指明显畸变；无文字。",
+    "prompt": "Use case: photorealistic-natural.\nAsset: modern studio wearing study inspired by a documented Ming portrait, for a clothing-history book, NOT a historic photograph or precise rank reconstruction.\nUse the attached Met 'Portrait of a Gentleman', 16th/17th century, accession 51.39.4, as evidence for visible clothing arrangement only. Show a modern Chinese man aged 42, ordinary build, clean-shaven so the neckline is unobstructed, seated squarely on a simple invisible-under-the-robe studio stool. He wears a loose vermilion-red silk round-collar robe with a clearly circular closed neckline below the base of the neck, NOT crossed lapels, NOT a high cylindrical collar. Broad voluminous sleeves, ankle-length robe, a square muted gold-on-red embroidered chest badge positioned as in reference, a restrained dark leather belt with rectangular pale plaques below the badge, black formal cap with modest broad horizontal rounded wings like the painting. The badge contains two small stylized cranes and foliage but is NOT a claim to an authenticated rank or exact iconography. No dragons. Keep collar, badge, belt and sleeve masses all readable and spatially separate.\nHis hands rest naturally near the thighs and do not cover the badge, with real human fingers. Complete head, cap wings and shoe soles in frame, ordinary black closed shoes with pale edges beneath robe. Feet natural, no foot-binding. Modern seamless pale grey studio backdrop, soft documentary catalogue light, natural skin and fine silk texture, restrained matte fabric rather than theatrical shine.\nNo tiger skin, no palace, no jewellery, no sword, no decorative gilded throne, no long fake beard, no fantasy hair, no text, labels or watermark. This single frontal pose only.",
+    "chapters": [
+      "11-ming-men",
+      "19-ritual-status"
+    ],
+    "pixels": {
+      "width": 1050,
+      "height": 1498
+    },
+    "path": "assets/images/model-ming-yuanling-portrait-study.jpg",
+    "width": 1050,
+    "height": 1498,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "f5cc2906d69274a51812be510063d49d61e9da4863c9e414566cd9838a9823f4"
+  },
+  {
+    "id": "model-mamian-three-views",
+    "title": "前后裙门与侧褶：同裙三面观察",
+    "sources": [
+      {
+        "title": "中国丝绸博物馆《曲水如意云纹罗裙》",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1905",
+        "supports": "前后裙门两侧对称折裥，裙身正中由两片交叠成大褶，裙腰和裙身缝缀。"
+      }
+    ],
+    "limitations": "AI 生成的现代成年模特复原展示，非史料、非馆方认证复原。仅为前后中央重叠、侧面布褶关系的简化试制；不复刻曲水如意云纹、实物尺寸或隐藏系扣。现代上衣、鞋和本色方案专用于观察，不是一套明代服饰。",
+    "qa": "已查看三视实际像素。左正、中侧、右背的鞋朝向可分；前后平阔区域宽度相近，侧面无中央大平面而有连续褶；腰头厚度与衣长一致，未出现额外可见纽扣或系带；不展示精确裁片。",
+    "prompt": "Use case: photorealistic-natural. Asset: photographic three-view wearing study of a modern replica skirt, not historical evidence.\nUsing the attached China National Silk Museum photograph of a Ming 'flowing-water and ruyi-cloud gauze skirt' as the garment-structure reference, create one clean horizontal triptych, three equally scaled views of the SAME modern adult woman (age 35), cropped from lower ribs to shoes: FRONT, exact SIDE, BACK, placed left to right with no text.\nFocus on a simple unembellished warm stone-beige two-panel wrap skirt at natural waist. At FRONT and BACK, the overlapping ends create broad flat central skirt doors; the pleats are concentrated symmetrically at BOTH SIDES. At the SIDE view, show a clear field of parallel pleats, not a broad flat front panel. The front and back flat doors are aligned on the front and back center of the same garment and must have the same width and length. No zipper, no elastic, no modern belt buckle, no decorative border, no printed graphics. Natural gauze-like silk, subtle woven texture, opaque modern underlayer so the body is not exposed. Waistband is a narrow plain woven band visible above the pleats, fitted for the model, fastening kept unobtrusive on her right side; the very specific hidden seam/overlap construction is not shown.\nThe evidence supports front/back center overlapping fabric and symmetric lateral pleats; this is a simplified wearing model of those relationships, not a millimetre reconstruction of the museum textile. Do not copy the antique damage or brown discoloration. Wear a plain fitted contemporary ivory undershirt tucked in, only its lower edge visible, to make clear this is a modern fitting session. Ordinary black flat closed shoes and normal unbound feet. Arms and hands outside frame, head outside frame, three skirts completely inside frame and equal length. Pale warm-grey studio backdrop, soft equal lighting, fine fabric and natural folds. No letters, no labels, no numbers, no watermark.",
+    "chapters": [
+      "13-skirts",
+      "26-observation"
+    ],
+    "pixels": {
+      "width": 1774,
+      "height": 887
+    },
+    "path": "assets/images/model-mamian-three-views.jpg",
+    "width": 1774,
+    "height": 887,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "c71d1891ffae264681714ac44c3d2b50c37f034b54ae727ec46689f5aba720db"
+  },
+  {
+    "id": "model-qing-han-aoqun",
+    "title": "晚清汉族女服：短袄与马面裙的搭配观察",
+    "sources": [
+      {
+        "title": "江西服装学院服装博物馆《清代汉式女装：紫红色提花绸倒大袖女袄》",
+        "url": "https://museum.jift.edu.cn/info/1080/1916.htm",
+        "supports": "清晚期紫红绸袄，大襟右衽、矮立领、宽袖口、弧形下摆，黑色绦边与黑白花边，三组一字盘扣。"
+      },
+      {
+        "title": "江西服装学院服装博物馆《清代汉式女装：暗花紫绸饰流苏五彩绣牡丹纹马面裙》",
+        "url": "https://museum.jift.edu.cn/info/1080/1917.htm",
+        "supports": "清晚期紫色马面裙，前后裙门牡丹绣纹、金色边饰、V形花边与多色流苏。"
+      }
+    ],
+    "limitations": "AI生成的现代成年模特复原展示，非史料。两件馆藏分别有出处，但无证据表明原属同一套，图仅作同阶段搭配观察。纹样与色彩为近似转译，鞋、发式、内层为当代展示补足，未复原缠足。",
+    "qa": "已查看实际像素。袄/裙为两件而非一体旗装；矮立领、右衽、倒大袖、前裙门与侧褶均可分；v2已将夸大蝴蝶结改为一字扣，并移除腰侧多余扣。可见三组黑盘扣分别在领根、斜襟上段、右腋附近；无马蹄袖、旗头、花盆底鞋；完整手鞋、无文字。",
+    "prompt": "Use case: photorealistic-natural.\nAsset: one full-body modern fitting photo for a Chinese clothing-history book: a late-Qing HAN CHINESE woman's jacket-and-skirt demonstration, explicitly assembled for teaching and not an original proven ensemble.\nReferences: Image 1 is Jiangxi Institute of Fashion Technology Museum's late-Qing purple-red jacquard wide-sleeved women's jacket; Image 2 is its late-Qing purple peony-embroidered mamian skirt. Faithfully preserve the visible silhouettes and border placement of those separate garments, not their damage or cutout artifacts.\nModern Chinese woman aged 38 with normal body and ordinary skin, neutral face. Jacket: muted purple-red silk jacquard with barely visible tonal geometric/floral texture; about 68 cm long reaching lower hips/upper thigh; short LOW standing collar; large right-closing curved front, closure curves toward wearer's RIGHT armpit (viewer's left); EXACTLY THREE small black horizontal frog fastenings along that curved right closure, not a center-front row. The wide sleeves widen toward their straight cuff ends, broad but not enormous draping Ming sleeves, hands visible. Thin black binding with a fine black-and-white patterned strip alongside at collar, curved opening and cuffs. Slightly curved hem, jacket worn outside skirt.\nSkirt: ankle-length dark purple silk mamian skirt, broad flat front door, pleated side regions; subtle pink/green/turquoise peony embroidery on front door and restrained narrow gold floral borders running vertically along its edges and around hem, a V-shaped trim with a modest multicolour short fringe low on front panel and small side tassels, all following image 2's organisation. Hide the red cotton waist under jacket. No extravagant invented motifs. Both are reconstructed new garments with natural slight lustre, not heavily aged textiles.\nHair is simply tied back in a modern low bun, no hair ornaments. Feet normal and unbound, plain low black cloth shoes. No Manchu horse-hoof cuffs, no flowerpot-platform shoes, no flag-head coiffure, no qipao one-piece silhouette, no court crown. Arms slightly away from sides, front view, collar and closures unblocked. Full head and shoes with margins, warm light-grey studio background, soft side-front lighting, documentary high-resolution realistic fabric, no glamour retouch. One figure, no letters, no labels, no watermark.",
+    "edit_prompt": "Use case: precise-object-edit.\nCorrect ONLY the black frog fastenings on this jacket, preserve the model, face, costume silhouette, colour, skirt, embroidery, sleeves, background and framing exactly.\nThere must be exactly THREE small, restrained, flat black horizontal Chinese straight frog fastenings 一字盘扣 along the right-closing curved opening:\n1. one tiny horizontal straight frog at the front base of the low collar;\n2. one tiny horizontal straight frog at the upper curved lapel on the wearer's right upper chest, replacing the current overlarge rabbit-ear knot;\n3. one tiny horizontal straight frog at the end of the curved diagonal opening near the wearer's right underarm/lower chest, using the existing middle fastening location.\nREMOVE the current lowest fastening near the wearer's right waist entirely, leaving only the decorative binding there.\nAll frogs must be simple small flat loops and a small button, never long dangling strings or crossed bow loops. Do not add any fourth fastening. Total exactly 3. No other changes, no text.",
+    "chapters": [
+      "12-qing-modern"
+    ],
+    "pixels": {
+      "width": 1024,
+      "height": 1536
+    },
+    "path": "assets/images/model-qing-han-aoqun.jpg",
+    "width": 1024,
+    "height": 1536,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "d0890f48bde0c28fc6f595c4e8cb96ff9629dfce4b7d6bc97c21fd92c54d12cf"
+  },
+  {
+    "id": "model-ming-qian-sleeve-layers",
+    "title": "钱氏三件套近看：两层袖子怎样相接",
+    "sources": [
+      {
+        "title": "中国丝绸博物馆《绢短袖衫&绮长袖衫&绢裙》",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=1870",
+        "supports": "钱姓女子三件套，直领对襟、短袖外层和长袖内层、外衫系带、裙褶与较宽中央褶。"
+      }
+    ],
+    "limitations": "AI生成的现代成年模特复原展示，非史料。沿用整身图的同一虚拟试制设计，近景用于看短袖外层和长袖内层，不用于复制具体绮纹、刺绣针法、缝线或染色。色差为增强层次阅读的展示选择。",
+    "qa": "已查看实际像素并对照整身v2。外短袖结束在肘附近，内袖从其下继续至腕；两边袖层相同；直领对襟、胸前恰一对系带、一结、无额外纽扣；上衣与裙分离；双手完整。",
+    "prompt": "Use case: identity-preserve.\nAsset: close photographic wearing study of sleeve layering for a clothing-history book.\nUse the first reference, the already generated modern Qian three-piece fitting photo, as identity and garment continuity reference. The second reference is the China National Silk Museum garment photo confirming the layering. Create a nearer documentary view of exactly the same 35-year-old modern woman and exactly the same outfit, front-facing, cropped from just below her mouth to just below the upper thighs. Extend the canvas horizontally enough that BOTH full sleeves and both hands fit naturally. Arms gently angled away from body so the sleeve layers can be read, no fingers pointing or covering the clothing.\nCritical garment continuity: same straight collar and vertical center-front opening, NOT cross-collar; same short-sleeved outer shirt over the long-sleeved inner shirt; each outer sleeve ends near elbow and the inner sleeve continues separately to wrist, clearly identifiable as two layers rather than an attached two-colour sleeve. Maintain the fine matte silk surfaces and very subtle grid texture of inner shirt. Same narrow floral collar edging, same outer hem slightly longer than inner. Exactly ONE PAIR of cloth strings tied together in one simple bow on front chest, as in reference 1; no buttons, no other ties or fastenings anywhere. A little of skirt pleating remains visible below outer shirt. Preserve all garment geometry, colors and proportions from reference 1.\nSoft off-white studio background, realistic human hands and fine silk, soft documentary light, no text, no arrow, no labels, no diagram. This is a modern wearing study, not the antique itself.",
+    "chapters": [
+      "02-clothing-anatomy",
+      "10-ming-women",
+      "20-making"
+    ],
+    "pixels": {
+      "width": 1536,
+      "height": 1024
+    },
+    "path": "assets/images/model-ming-qian-sleeve-layers.jpg",
+    "width": 1536,
+    "height": 1024,
+    "image_kind": "AI生成的有限复原／类型试制展示（非史料）",
+    "generated_on": "2026-10-25",
+    "review_status": "通过像素与所述证据范围审查；不等于考古复原认证",
+    "sha256": "2ad240a60394f7615617598c32aecce00124167937b127d66334ad64e0db430e"
+  }
+]
