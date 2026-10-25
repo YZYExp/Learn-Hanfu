@@ -168,6 +168,12 @@ def build_pdf(manifest, outdir):
         block_items=list(blocks(p.read_text()));skip=False;in_biblio=False
         for index,(kind,val) in enumerate(block_items):
             if skip:skip=False;continue
+            if kind.startswith('h') and '本章资料' in val:
+                prior={u for _,v in block_items[:index] for _,u in LINK.findall(str(v))}
+                tail={u for _,v in block_items[index:] for _,u in LINK.findall(str(v))}
+                # The PDF already supplies same-page source notes. Avoid an extra
+                # almost-empty page containing only duplicate bibliography links.
+                if tail<=prior:break
             if kind=='image':
                 alt,rel=val;ip=(p.parent/rel).resolve()
                 with PILImage.open(ip) as im:iw,ih=im.size
